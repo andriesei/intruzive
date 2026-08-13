@@ -1,0 +1,5 @@
+baseURL = "https://andriesei.github.io/intruzive.ai/"
+locale = "ro-ro"
+title = "Gânduri Intruzive"
+theme = "dark-theme-editor"
+enableGitInfo = true
