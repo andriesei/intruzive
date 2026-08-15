@@ -1,6 +1,6 @@
 +++
 date = '2024-09-01T15:42:19+03:00'
-draft = true
+draft = false
 title = 'R. 10: Frumusețea dincolo de Existență'
 localCss = ["css/background.css"]
 +++

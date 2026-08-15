@@ -1,6 +1,6 @@
 +++
 date = '2024-08-20T15:17:22+03:00'
-draft = true
+draft = false
 title = 'R. 09: Securitate, Libertate și Legea Morală'
 localCss = ["css/background.css"]
 +++

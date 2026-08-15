@@ -1,6 +1,6 @@
 +++
 date = '2024-09-03T16:04:03+03:00'
-draft = true
+draft = false
 title = 'R. 11: Jertfa'
 localCss = ["css/background.css"]
 +++
