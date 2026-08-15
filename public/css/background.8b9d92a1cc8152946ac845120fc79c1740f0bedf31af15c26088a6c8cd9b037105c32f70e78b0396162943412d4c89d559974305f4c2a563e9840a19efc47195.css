@@ -1,0 +1,15 @@
+body::before {
+  content: "";
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 600px;
+  height: 600px;
+  transform: translate(-50%, -50%);
+  background-image: url("../logo.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.30;
+  pointer-events: none;
+  z-index: 0;
+}
