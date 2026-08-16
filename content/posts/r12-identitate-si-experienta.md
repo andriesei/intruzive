@@ -1,7 +1,7 @@
 +++
 date = '2024-09-08T01:09:31+03:00'
-draft = true
-title = 'R12 Identitate Si Experienta'
+draft = false
+title = 'R. 12: Identitate și Experiență'
 localCss = ["css/background.css"]
 +++
 Cu privire la cele citite din Jung 

@@ -1,6 +1,6 @@
 +++
 date = '2024-09-14T09:13:18+03:00'
-draft = true
+draft = false
 title = 'R. 13: Voința dincolo de Conștiință'
 localCss = ["css/background.css"]
 +++
