@@ -1,7 +1,7 @@
 +++
 date = '2024-11-29T17:45:12+03:00'
 draft = false
-title = 'R19 Oglinda'
+title = 'R. 19: Oglinda'
 localCss = ["css/background.css"]
 +++
 Se pare că ceea ce se credea a fi boală este efectul contextelor politice în care ceea ce avea poporul de spus nu corela niciodată cu conducerea statului. Și chiar în acest moment mă întreb dacă nu cumva această ultimă idee din propoziția de mai sus oglindește omul, care este constituția societății. Adică atât statul, cât și omul sunt tentați să refuleze idei și convingeri.
