@@ -13,4 +13,4 @@ Scriu despre om ca ființă aflată între ceea ce este, ceea ce crede că este 
 
 ---
 
-Ai un gând, o întrebare, sau vrei doar să-mi scrii? Lasă un mesaj aici: [contact](/contact/).
+Ai un gând, o întrebare, sau vrei doar să-mi scrii? Lasă un mesaj aici: [contact](/intruzive/contact/).
