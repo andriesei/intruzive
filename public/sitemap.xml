@@ -2,73 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andriesei.github.io/intruzive/posts/</loc>
+    <loc>http://localhost:61151/intruzive/posts/</loc>
     <lastmod>2026-08-17T07:56:22+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r16-identitate-si-conventie/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r16-identitate-si-conventie/</loc>
     <lastmod>2026-08-17T07:56:22+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r15-rodirea-dupa-moarte/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r15-rodirea-dupa-moarte/</loc>
     <lastmod>2026-08-17T07:56:22+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r14-nonexistenta/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r14-nonexistenta/</loc>
     <lastmod>2026-08-17T02:50:59+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r13-vointa-dincolo-de-constiinta/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r13-vointa-dincolo-de-constiinta/</loc>
     <lastmod>2026-08-17T02:50:59+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r12-identitate-si-experienta/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r12-identitate-si-experienta/</loc>
     <lastmod>2026-08-17T02:50:59+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r11-jertfa/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r11-jertfa/</loc>
     <lastmod>2026-08-15T23:31:09+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r10-frumusetea-dincolo-de-existenta/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r10-frumusetea-dincolo-de-existenta/</loc>
     <lastmod>2026-08-15T23:31:09+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r09-securitate-libertate-si-legea-morala/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r09-securitate-libertate-si-legea-morala/</loc>
     <lastmod>2026-08-15T23:31:09+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r08-esenta-care-apare-si-dispare/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r08-esenta-care-apare-si-dispare/</loc>
     <lastmod>2026-08-15T23:31:09+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r07-intre-ratiune-iubire-si-intreg/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r07-intre-ratiune-iubire-si-intreg/</loc>
     <lastmod>2026-08-15T23:31:09+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r06-instrumentalizarea-arhetipurilor/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r06-instrumentalizarea-arhetipurilor/</loc>
     <lastmod>2026-08-15T20:24:17+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r05-apa/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r05-apa/</loc>
     <lastmod>2026-08-15T20:24:17+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r04-caderea-in-limbaj/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r04-caderea-in-limbaj/</loc>
     <lastmod>2026-08-15T20:24:17+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r03-omul-martir-fara-sange/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r03-omul-martir-fara-sange/</loc>
     <lastmod>2026-08-15T20:24:17+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r02-exilul-fiintei/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r02-exilul-fiintei/</loc>
     <lastmod>2026-08-15T20:24:17+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/posts/r01-eros/</loc>
+    <loc>http://localhost:61151/intruzive/posts/r01-eros/</loc>
     <lastmod>2026-08-15T20:24:17+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/despre/</loc>
+    <loc>http://localhost:61151/intruzive/about/</loc>
+    <lastmod>2026-08-17T15:20:31+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/about/</loc>
-    <lastmod>2026-08-17T15:17:23+03:00</lastmod>
+    <loc>http://localhost:61151/intruzive/categories/</loc>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/categories/</loc>
-  </url><url>
-    <loc>https://andriesei.github.io/intruzive/contact/</loc>
+    <loc>http://localhost:61151/intruzive/contact/</loc>
     <lastmod>2026-08-17T02:50:59+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/</loc>
+    <loc>http://localhost:61151/intruzive/</loc>
     <lastmod>2026-08-15T20:24:17+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/privacy-policy/</loc>
+    <loc>http://localhost:61151/intruzive/privacy-policy/</loc>
     <lastmod>2026-08-17T13:33:10+03:00</lastmod>
   </url><url>
-    <loc>https://andriesei.github.io/intruzive/tags/</loc>
+    <loc>http://localhost:61151/intruzive/tags/</loc>
   </url>
 </urlset>
