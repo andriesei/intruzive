@@ -1,6 +1,6 @@
 +++
 date = '2024-11-02T21:46:19+03:00'
-draft = true
+draft = false
 title = 'R. 16: Identitate și Convenție'
 localCss = ["css/background.css"]
 +++
