@@ -1,5 +1,6 @@
 +++
 title = "About"
+date = '2024-07-26T19:27:00+03:00'
 draft = false
 localCss = ["css/background.css"]
 +++
