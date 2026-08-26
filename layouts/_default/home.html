@@ -76,9 +76,54 @@
                             {{ i18n "walkthroughs"  | title }}
                         </h3>
                         {{ partial "module/section_tree" ( dict "context" . "currentPage" . ) }}
+
+                        <!-- Gând Aleator: se alege aleator în browser, la fiecare încărcare a paginii. -->
+                        <div class="manifest-card" id="random-thought-box" style="margin-top: 1.5rem;">
+                            <h3 class="recommend-title">Gând Aleator</h3>
+                            <p class="manifest-text" style="text-align: justify;">Se încarcă...</p>
+                        </div>
                     </div>
                 {{ end }}
             </div>
         </div>
+
+        <script type="application/json" id="random-thought-data">
+            [
+                {{ range $index, $page := .Site.RegularPages }}
+                    {{ if $index }},{{ end }}
+                    {
+                        "title": {{ $page.Title | jsonify }},
+                        "url": {{ $page.RelPermalink | jsonify }},
+                        "summary": {{ $page.Summary | truncate 140 | plainify | jsonify }}
+                    }
+                {{ end }}
+            ]
+        </script>
+
+        <script>
+        (function () {
+            var dataEl = document.getElementById("random-thought-data");
+            var box = document.getElementById("random-thought-box");
+            if (!dataEl || !box) return;
+
+            var posts;
+            try {
+                posts = JSON.parse(dataEl.textContent);
+            } catch (e) {
+                posts = [];
+            }
+
+            if (!posts.length) {
+                box.innerHTML = '<h3 class="recommend-title">Gând Aleator</h3><p class="manifest-text" style="text-align: justify;">Niciun fragment disponibil momentan.</p>';
+                return;
+            }
+
+            var pick = posts[Math.floor(Math.random() * posts.length)];
+
+            box.innerHTML =
+                '<h3 class="recommend-title">Gând Aleator</h3>' +
+                '<p class="manifest-text" style="text-align: justify;"><a href="' + pick.url + '">' + pick.title + '</a><br>' + pick.summary + '</p>';
+        })();
+        </script>
     </article>
 {{ end }}
