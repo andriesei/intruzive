@@ -19,6 +19,9 @@ enableGitInfo = true
   showRecentPostsBlock = true
   numOfRecentPosts = 5
   recentPostShowUrl = false
+  showManifestCard = true
+  manifestTitle = "Manifest"
+  manifestText = "Proiectul de față este un drum provocator, atât pentru autor, cât și pentru cititor, în căutarea înțelegerii a ceea ce înseamnă a fi uman în raport cu existența. Pe lângă aceasta, este tratată contradicția dintre nevoia omului de a da sens și riscul ca sensurile, definițiile și etichetele prin care încearcă să se înțeleagă să-l îndepărteze tocmai de ceea ce încearcă să înțeleagă. Aici nu căutăm să eliminăm obstacolele, ci să le observăm."
 
 [params.site]
   faviconUrl = "/favicon.svg"
