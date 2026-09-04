@@ -2,8 +2,7 @@
   Partial: cookie-consent.html
   Locație recomandată: layouts/partials/cookie-consent.html
 
-  Include-l în layouts/_default/baseof.html, imediat înainte de </body>:
-    {{ partial "cookie-consent.html" . }}
+  Este inclus în layouts/_default/baseof.html, imediat înainte de </body>.
 
   Comportament:
   - Pe homepage (.IsHome): banner complet, cu text explicativ și butoane vizibile.
@@ -13,7 +12,7 @@
 
 {{ if .IsHome }}
 
-<div id="cookie-consent-banner" class="cookie-consent-banner" style="display:none;">
+<div id="cookie-consent-banner" class="cookie-consent-banner">
   <div class="cookie-consent-text">
     Acest site folosește cookie-uri pentru analiză de trafic (Google Analytics) și, pe viitor, pentru afișare de reclame (Google AdSense).
     Poți afla mai multe în <a href="/privacy-policy/">Politica de Confidențialitate</a>.
@@ -26,9 +25,9 @@
 
 {{ else }}
 
-<div id="cookie-consent-mini" class="cookie-consent-mini" style="display:none;">
+<div id="cookie-consent-mini" class="cookie-consent-mini">
   <button id="cookie-consent-mini-toggle" class="cookie-consent-mini-toggle" aria-label="Setări cookie-uri">🍪</button>
-  <div id="cookie-consent-mini-panel" class="cookie-consent-mini-panel" style="display:none;">
+  <div id="cookie-consent-mini-panel" class="cookie-consent-mini-panel" hidden>
     <div class="cookie-consent-mini-text">
       Folosim cookie-uri pentru analiză și reclame. <a href="/privacy-policy/">Detalii</a>.
     </div>
@@ -81,11 +80,11 @@
   font-weight: 500;
 }
 .cookie-consent-btn-accept {
-  background: #4caf50;
+  background: #2c662e;
   color: white;
 }
 .cookie-consent-btn-accept:hover {
-  background: #43a047;
+  background: #2d6a30;
 }
 .cookie-consent-btn-reject {
   background: transparent;
@@ -93,7 +92,7 @@
   border: 1px solid #666;
 }
 .cookie-consent-btn-reject:hover {
-  background: #2a2a2a;
+  background: #484542;
 }
 
 @media (max-width: 480px) {
@@ -146,6 +145,9 @@
   flex-direction: column;
   gap: 0.6rem;
 }
+.cookie-consent-mini-panel[hidden] {
+  display: none;
+}
 .cookie-consent-mini-text {
   line-height: 1.4;
 }
@@ -184,43 +186,37 @@
     } catch (e) {}
   }
 
-  function loadAnalytics() {
+  function notifyAnalyticsConsent() {
     document.dispatchEvent(new Event("cookie-consent-accepted"));
   }
 
   var existingConsent = getConsent();
 
-  if (fullBanner) {
-    // Pagina homepage: bannerul complet apare de fiecare dată.
-    fullBanner.style.display = "flex";
-  } else if (miniWidget) {
-    // Restul paginilor: widget-ul mic apare de fiecare dată, panoul rămâne închis până la click.
-    miniWidget.style.display = "flex";
+  if (miniToggle && miniPanel) {
     miniToggle.addEventListener("click", function () {
-      var isOpen = miniPanel.style.display === "flex";
-      miniPanel.style.display = isOpen ? "none" : "flex";
+      miniPanel.hidden = !miniPanel.hidden;
     });
   }
 
   if (existingConsent === "accepted") {
-    loadAnalytics();
+    notifyAnalyticsConsent();
   }
   // Dacă existingConsent === "rejected" sau null, GA nu se încarcă automat.
 
   if (acceptBtn) {
     acceptBtn.addEventListener("click", function () {
       setConsent("accepted");
-      if (fullBanner) fullBanner.style.display = "none";
-      if (miniWidget) miniWidget.style.display = "none";
-      loadAnalytics();
+      if (fullBanner) fullBanner.hidden = true;
+      if (miniWidget) miniWidget.hidden = true;
+      notifyAnalyticsConsent();
     });
   }
 
   if (rejectBtn) {
     rejectBtn.addEventListener("click", function () {
       setConsent("rejected");
-      if (fullBanner) fullBanner.style.display = "none";
-      if (miniWidget) miniWidget.style.display = "none";
+      if (fullBanner) fullBanner.hidden = true;
+      if (miniWidget) miniWidget.hidden = true;
     });
   }
 })();
