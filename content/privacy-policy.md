@@ -1,5 +1,6 @@
 +++
 title = "Politica de Confidențialitate"
+date = '2026-08-17T18:27:00+03:00'
 draft = false
 localCss = ["css/background.css"]
 +++

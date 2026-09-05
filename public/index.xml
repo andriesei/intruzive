@@ -12,6 +12,13 @@
 		
 			<atom:link href="http://localhost:1313/intruzive/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Politica de Confidențialitate</title>
+				<link>http://localhost:1313/intruzive/privacy-policy/</link>
+				<pubDate>Mon, 17 Aug 2026 18:27:00 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/privacy-policy/</guid>
+				<description>&lt;p&gt;Ultima actualizare: 17 august 2026&lt;/p&gt;&#xA;&lt;p&gt;Această politică de confidențialitate explică modul în care sunt colectate, folosite și protejate datele atunci când vizitezi acest blog (&amp;ldquo;Gânduri Intruzive&amp;rdquo;).&lt;/p&gt;&#xA;&lt;p&gt;Cine este responsabil de acest site&lt;/p&gt;&#xA;&lt;p&gt;Acest blog este un proiect personal, administrat de [Numele tău / Andrei]. Pentru orice întrebare legată de această politică sau de datele tale, mă poți contacta prin formularul de contact de pe site.&lt;/p&gt;&#xA;&lt;p&gt;Ce date sunt colectate&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Date colectate automat (analiză trafic)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Acest site folosește Google Analytics pentru a înțelege cum este vizitat blogul (număr de vizitatori, pagini accesate, durata vizitei, tipul de dispozitiv, locație aproximativă bazată pe IP, sursă de trafic).&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>R. 27: Amprenta Sacralității</title>
 				<link>http://localhost:1313/intruzive/posts/r27-sacralitatea/</link>
 				<pubDate>Sun, 02 Feb 2025 14:14:15 +0300</pubDate>
@@ -213,13 +220,6 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/intruzive/contact/</guid>
 				<description></description>
-			</item>
-			<item>
-				<title>Politica de Confidențialitate</title>
-				<link>http://localhost:1313/intruzive/privacy-policy/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/intruzive/privacy-policy/</guid>
-				<description>&lt;p&gt;Ultima actualizare: 17 august 2026&lt;/p&gt;&#xA;&lt;p&gt;Această politică de confidențialitate explică modul în care sunt colectate, folosite și protejate datele atunci când vizitezi acest blog (&amp;ldquo;Gânduri Intruzive&amp;rdquo;).&lt;/p&gt;&#xA;&lt;p&gt;Cine este responsabil de acest site&lt;/p&gt;&#xA;&lt;p&gt;Acest blog este un proiect personal, administrat de [Numele tău / Andrei]. Pentru orice întrebare legată de această politică sau de datele tale, mă poți contacta prin formularul de contact de pe site.&lt;/p&gt;&#xA;&lt;p&gt;Ce date sunt colectate&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Date colectate automat (analiză trafic)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Acest site folosește Google Analytics pentru a înțelege cum este vizitat blogul (număr de vizitatori, pagini accesate, durata vizitei, tipul de dispozitiv, locație aproximativă bazată pe IP, sursă de trafic).&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
