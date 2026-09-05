@@ -226,6 +226,11 @@
   }
 }
 
+.cookie-consent-banner[hidden],
+.cookie-consent-mini[hidden] {
+  display: none !important;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .cookie-consent-banner,
   .cookie-consent-mini,
@@ -265,19 +270,21 @@
   }
 
   function hideWithAnimation(element) {
-    if (!element) return;
+  if (!element) return;
 
-    if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-      element.hidden = true;
-      return;
-    }
-
-    element.classList.add("cookie-consent-is-hiding");
-    element.addEventListener("animationend", function () {
-      element.hidden = true;
-      element.classList.remove("cookie-consent-is-hiding");
-    }, { once: true });
+  if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    element.style.display = "none";
+    element.hidden = true;
+    return;
   }
+
+  element.classList.add("cookie-consent-is-hiding");
+  element.addEventListener("animationend", function () {
+    element.style.display = "none"; // <- fix: câștigă mereu în fața .cookie-consent-banner{display:flex}
+    element.hidden = true;           // păstrat pentru semantică/accesibilitate
+    element.classList.remove("cookie-consent-is-hiding");
+  }, { once: true });
+}
 
   var existingConsent = getConsent();
 
