@@ -1,5 +1,6 @@
 <!--
-  Partial: cookie-consent.html
+<!--
+  Partials: cookie-consent.html
   Locație recomandată: layouts/partials/cookie-consent.html
 
   Este inclus în layouts/_default/baseof.html, imediat înainte de </body>.
@@ -15,7 +16,7 @@
 <div id="cookie-consent-banner" class="cookie-consent-banner">
   <div class="cookie-consent-text">
     Acest site folosește cookie-uri pentru analiză de trafic (Google Analytics) și, pe viitor, pentru afișare de reclame (Google AdSense).
-    Poți afla mai multe în <a href="/privacy-policy/">Politica de Confidențialitate</a>.
+    Poți afla mai multe în <a href="{{ "privacy-policy" | relURL }}">Politica de Confidențialitate</a>.
   </div>
   <div class="cookie-consent-buttons">
     <button id="cookie-consent-accept" class="cookie-consent-btn cookie-consent-btn-accept">Accept</button>
@@ -29,7 +30,7 @@
   <button id="cookie-consent-mini-toggle" class="cookie-consent-mini-toggle" aria-label="Setări cookie-uri">🍪</button>
   <div id="cookie-consent-mini-panel" class="cookie-consent-mini-panel" hidden>
     <div class="cookie-consent-mini-text">
-      Folosim cookie-uri pentru analiză și reclame. <a href="/privacy-policy/">Detalii</a>.
+      Folosim cookie-uri pentru analiză și reclame. <a href="{{ "privacy-policy" | relURL }}">Detalii</a>.
     </div>
     <div class="cookie-consent-buttons">
       <button id="cookie-consent-accept" class="cookie-consent-btn cookie-consent-btn-accept">Accept</button>
@@ -169,18 +170,6 @@
   var miniWidget = document.getElementById("cookie-consent-mini");
   var miniToggle = document.getElementById("cookie-consent-mini-toggle");
   var miniPanel = document.getElementById("cookie-consent-mini-panel");
-  var acceptBtn = document.getElementById("cookie-consent-accept");
-  var rejectBtn = document.getElementById("cookie-consent-reject");
-
-  function getConsent() {
-    try {
-      return localStorage.getItem(CONSENT_KEY);
-    } catch (e) {
-      return null;
-    }
-  }
-
-  function setConsent(value) {
     try {
       localStorage.setItem(CONSENT_KEY, value);
     } catch (e) {}
@@ -221,3 +210,5 @@
   }
 })();
 </script>
+-->
+-->

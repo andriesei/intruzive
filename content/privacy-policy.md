@@ -1,6 +1,5 @@
 +++
 title = "Politica de Confidențialitate"
-date = '2026-08-17T18:27:00+03:00'
 draft = false
 localCss = ["css/background.css"]
 +++
@@ -10,7 +9,7 @@ Această politică de confidențialitate explică modul în care sunt colectate,
 
 Cine este responsabil de acest site
 
-Acest blog este un proiect personal, administrat de [Numele tău / Andrei]. Pentru orice întrebare legată de această politică sau de datele tale, mă poți contacta prin formularul de contact de pe site.
+Acest blog este un proiect personal, administrat de Andrei (nickname). Pentru orice întrebare legată de această politică sau de datele tale, mă poți contacta prin formularul de contact de pe site.
 
 Ce date sunt colectate
 1. Date colectate automat (analiză trafic)
