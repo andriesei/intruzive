@@ -170,6 +170,18 @@
   var miniWidget = document.getElementById("cookie-consent-mini");
   var miniToggle = document.getElementById("cookie-consent-mini-toggle");
   var miniPanel = document.getElementById("cookie-consent-mini-panel");
+  var acceptBtn = document.getElementById("cookie-consent-accept");
+  var rejectBtn = document.getElementById("cookie-consent-reject");
+
+  function getConsent() {
+    try {
+      return localStorage.getItem(CONSENT_KEY);
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function setConsent(value) {
     try {
       localStorage.setItem(CONSENT_KEY, value);
     } catch (e) {}
@@ -210,5 +222,4 @@
   }
 })();
 </script>
--->
 -->
