@@ -1,0 +1,7 @@
++++
+date = '2025-04-07T01:59:48+03:00'
+draft = false
+title = 'R. 37: Instinct Si Univers'
+localCss = ["css/background.css"]
++++
+Ce este cu instinctul de supraviețuire care ca o hibă își face prezența în tot ce înseamnă viață? Este obsesia vechilor gânditori. Ei au transformato în temelia gândirii pe care s-a construit toată filosofia de la început până acum. Ne luptăm să fim auziți de Univers încercând sa supraviețuim. El (instinctul) este ca un fum care se dispersă în neant. El (universul) este acea tăcere apăsătoare. Este acel plumb care ne acompaniază/ însoțește/ este prezent chiar și după moarte. Acest „chiar și după moarte” marcat de prezența metalului greu, metaforic vorbind, ne arată lipsa de sens a vieții pământești. Aici aduc în discuție sentimentul despre al cărei importanță vorbește într-un mod obscen de exagerat toată lumea. Moartea însăși desparte prietenii legate de societate prin termenul de „căsătorie”. Permiteți-mi sa-mi derog dreptul de a numi acest comportament că fiind unul „inocent” și eminamente copilăros. Te juri avându-L pe Dumnezeu martor legăturilor tale? Dar ce înseamnă pentru cel de lângă tine „Dumnezeu”? Pentru el mai important este a supraviețui decât puterea cuvântului.   
