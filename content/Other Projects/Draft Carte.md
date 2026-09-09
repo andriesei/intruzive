@@ -1,6 +1,6 @@
 +++
 title = "Draft Carte"
-subtitle = "Familia - Trupul lui Hristos"
+subtitle = "Familia – Trupul lui Hristos"
 draft = false
 localCss = ["css/background.css"]
 +++
