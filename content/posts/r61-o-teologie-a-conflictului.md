@@ -1,7 +1,7 @@
 +++
 date = '2025-09-29T14:03:36+03:00'
-draft = true
-title = 'R61 O Teologie a Conflictului'
+draft = false
+title = 'R. 61: O Teologie a Conflictului'
 localCss = ["css/background.css"]
 +++
 
