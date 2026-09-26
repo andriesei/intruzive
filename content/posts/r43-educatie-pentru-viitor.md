@@ -30,3 +30,4 @@ O școală de tranziție.
 A trece de la o școală cu bănci și pereți la una despre care, mai sus, vorbea o altă personalitate ar putea strica mai mult omul decât este acum.
 
 L-ai vlăguit de toate potențialitățile sale în favoarea fabricii și acum îl vlăguiești de sentiment și rațiune?
+Cum poate fi instrumentalizată (transformată în instrument) inteligența artificială pentru societate in lupta sa împotriva diferențelor de clase? Cum de acești magnați nu visează să transforme câmpuri întregi lipsite de apă și locuite de oameni în unele mai prietenoase și primitoare cu ajutorul tehnologiei cu care se laudă? Asta înseamnă a fi profet? Să nu ai răspunsurile la aceste întrebări și la multe altele? Să fie oare ignoranță?... 
