@@ -1,5 +1,5 @@
 +++
-date = '2025-04-07T01:59:48+03:00'
+date = '2024-09-12T01:59:48+03:00'
 draft = false
 title = 'R. 37: Instinct și Univers'
 localCss = ["css/background.css"]

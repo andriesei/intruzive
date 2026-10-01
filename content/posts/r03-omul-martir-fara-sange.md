@@ -1,5 +1,5 @@
 +++
-date = '2024-07-26T19:27:00+03:00'
+date = '2024-02-26T19:27:00+03:00'
 draft = false
 title = 'R. 03: Omul. Martir fară sânge!'
 localCss = ["css/background.css"]

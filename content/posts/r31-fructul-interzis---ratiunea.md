@@ -1,5 +1,5 @@
 +++
-date = '2025-02-25T05:45:24+03:00'
+date = '2024-08-14T05:45:24+03:00'
 draft = false
 title = 'R. 31: Fructul Interzis - Ratiunea'
 localCss = ["css/background.css"]

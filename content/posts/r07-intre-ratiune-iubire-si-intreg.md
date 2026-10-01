@@ -1,5 +1,5 @@
 +++
-date = '2024-08-04T12:31:30+03:00'
+date = '2024-03-04T12:31:30+03:00'
 draft = false
 title = 'R. 07: Între Rațiune, Iubire și Întreg'
 localCss = ["css/background.css"]

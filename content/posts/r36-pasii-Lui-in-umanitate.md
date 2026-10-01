@@ -1,5 +1,5 @@
 +++
-date = '2025-03-30T15:44:16+03:00'
+date = '2024-09-07T15:44:16+03:00'
 draft = false
 title = 'R. 36: Pașii Lui în Umanitate'
 localCss = ["css/background.css"]

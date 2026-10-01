@@ -1,5 +1,5 @@
 +++
-date = '2025-10-06T14:25:11+03:00'
+date = '2025-02-02T14:25:11+03:00'
 draft = false
 title = 'R. 62: Lamentații'
 localCss = ["css/background.css"]

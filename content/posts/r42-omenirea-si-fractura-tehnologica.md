@@ -1,5 +1,5 @@
 +++
-date = '2025-05-27T02:43:50+03:00'
+date = '2024-10-17T02:43:50+03:00'
 draft = false
 title = 'R. 42: Omenirea și fractura Tehnologică'
 localCss = ["css/background.css"]

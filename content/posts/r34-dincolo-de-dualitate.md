@@ -1,5 +1,5 @@
 +++
-date = '2025-03-15T13:27:09+03:00'
+date = '2024-08-28T13:27:09+03:00'
 draft = false
 title = 'R. 34: Dincolo de Dualitate'
 localCss = ["css/background.css"]

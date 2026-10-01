@@ -1,6 +1,6 @@
 
 +++
-date = '2024-07-29T21:00:00+03:00'
+date = '2024-02-29T21:00:00+03:00'
 draft = false
 title = 'R. 05: Apa'
 localCss = ["css/background.css"]

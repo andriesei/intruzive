@@ -1,5 +1,5 @@
 +++
-date = '2025-07-23T13:41:00+03:00'
+date = '2024-12-01T13:41:00+03:00'
 draft = false
 title = 'R. 51: Asupra Egalităților Ontologice'
 localCss = ["css/background.css"]

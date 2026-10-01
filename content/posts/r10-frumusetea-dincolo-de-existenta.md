@@ -1,5 +1,5 @@
 +++
-date = '2024-09-01T15:42:19+03:00'
+date = '2024-04-01T15:42:19+03:00'
 draft = false
 title = 'R. 10: Frumusețea dincolo de Existență'
 localCss = ["css/background.css"]

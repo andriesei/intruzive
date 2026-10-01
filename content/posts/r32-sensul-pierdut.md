@@ -1,5 +1,5 @@
 +++
-date = '2025-03-01T05:48:57+03:00'
+date = '2024-08-21T05:48:57+03:00'
 draft = false
 title = 'R. 32: Sensul Pierdut'
 localCss = ["css/background.css"]

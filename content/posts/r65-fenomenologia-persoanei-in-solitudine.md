@@ -1,5 +1,5 @@
 +++
-date = '2025-11-02T14:05:57+03:00'
+date = '2025-02-22T14:05:57+03:00'
 draft = false
 title = 'R. 65: Fenomenologia Persoanei în Solitudine'
 localCss = ["css/background.css"]
