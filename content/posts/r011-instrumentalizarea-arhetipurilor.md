@@ -1,7 +1,7 @@
 +++
 date = '2024-03-01T11:49:24+03:00'
 draft = false
-title = 'R. 06: Instrumentalizarea Arhetipurilor'
+title = 'R. 011: Instrumentalizarea Arhetipurilor'
 localCss = ["css/background.css"]
 +++
 Interesantă perspectivă — una care ar merita descrisă mai în detaliu. Afirmații precum „Femeia nu este om” sau „Există o rasă superioară, cea a albilor, a arienilor” exprimă mecanisme ideologice care nu aparțin doar trecutului. Poate că imperialismul postmodern confirmă impresia că istoria se repetă sau că timpul însuși se resetează. Argumentul istoric este adesea instrumentalizat în propriile interese, mai ales atunci când națiunea și elita devin, etic vorbind, asincronice. 

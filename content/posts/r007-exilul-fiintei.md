@@ -1,7 +1,7 @@
 +++
 date = '2024-02-25T21:00:00+03:00'
 draft = false
-title = 'R. 02: Exilul Ființei'
+title = 'R. 007: Exilul Ființei'
 localCss = ["css/background.css"]
 +++
 
