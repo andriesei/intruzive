@@ -1,7 +1,7 @@
 +++
-date = '2024-09-20T02:25:12+03:00'
+date = '2024-09-21T02:25:12+03:00'
 draft = false
-title = 'R. 38: Ideologii și Fapte'
+title = 'R. 043: Ideologii și Fapte'
 localCss = ["css/background.css"]
 +++
 Cred că am înțeles o parte din procesul de falsificare a istoriei.

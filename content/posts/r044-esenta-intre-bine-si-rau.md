@@ -1,7 +1,7 @@
 +++
 date = '2024-09-23T02:49:41+03:00'
 draft = false
-title = 'R. 39: Esența între Bine și Rău'
+title = 'R. 044: Esența între Bine și Rău'
 localCss = ["css/background.css"]
 +++
 A simți că cineva este rău în tot ceea ce face este ușor. Dar ce înseamnă cu adevărat a fi rău sau bun? Oamenii buni sunt buni atunci când se simt vulnerabili? Și ce înseamnă această vulnerabilitate? Oamenii răi sunt vulnerabili și fac rău atunci când se simt vulnerabili?

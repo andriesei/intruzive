@@ -1,7 +1,7 @@
 +++
-date = '2024-09-29T03:19:12+03:00'
+date = '2024-09-30T03:19:12+03:00'
 draft = false
-title = 'R. 40: Ibidem'
+title = 'R. 045: Ibidem'
 localCss = ["css/background.css"]
 +++
 Eu sunt rău în acest context. De ce? Pentru că reacția mea avută în aceleași contexte a avut ca rezultat negativ pentru eul meu sau, chiar mai mult decât atât, apelarea la reziliență (pentru că nu reziliența ar trebui să fie soluția la însănătoșire, de exemplu) și experiența sentimentului inferiorității față de ceea ce mișcă trupul meu și se numește viață trupească.

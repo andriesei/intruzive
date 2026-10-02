@@ -1,7 +1,7 @@
 +++
 date = '2024-09-07T15:44:16+03:00'
 draft = false
-title = 'R. 36: Pașii Lui în Umanitate'
+title = 'R. 041: Pașii Lui în Umanitate'
 localCss = ["css/background.css"]
 +++
 Îmi e teamă să mai zic ceva despre umanitate. Îmi e teamă ca ceea ce voi scrie să nu-mi nutrească sentimente mult mai adânci față de natura acesteia.
