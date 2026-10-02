@@ -1,7 +1,7 @@
 +++
-date = '2026-02-20T13:00:48+03:00'
+date = '2025-04-27T13:00:48+03:00'
 draft = false
-title = 'R. 78: Topos'
+title = 'R. 084: Topos'
 localCss = ["css/background.css"]
 +++
 

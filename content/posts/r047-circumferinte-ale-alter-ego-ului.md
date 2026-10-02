@@ -1,7 +1,7 @@
 +++
 date = '2024-10-11T03:43:53+03:00'
 draft = false
-title = 'R. 42: Circumferințe ale Alter-Ego-ului'
+title = 'R. 047: Circumferințe ale Alter-Ego-ului'
 localCss = ["css/background.css"]
 +++
 

@@ -1,7 +1,7 @@
 +++
-date = '2026-09-27T02:06:30+03:00'
+date = '2025-08-23T02:06:30+03:00'
 draft = false
-title = 'R. 97: Ostilitatea Naturii'
+title = 'R. 104: Ostilitatea Naturii'
 localCss = ["css/background.css"]
 +++
 

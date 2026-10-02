@@ -1,7 +1,7 @@
 +++
-date = '2026-04-23T22:51:55+03:00'
+date = '2025-07-01T22:51:55+03:00'
 draft = false
-title = 'R. 89: Operare et Polis'
+title = 'R. 095: Operare et Polis'
 localCss = ["css/background.css"]
 +++
 

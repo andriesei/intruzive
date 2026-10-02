@@ -1,7 +1,7 @@
 +++
-date = '2024-11-12T09:28:01+03:00'
+date = '2024-11-11T09:28:01+03:00'
 draft = false
-title = 'R. 47: Alcoolul și Iraționalul'
+title = 'R. 053: Alcoolul și Iraționalul'
 localCss = ["css/background.css"]
 +++
 Alcoolul este ceea ce te ajută — deși nu încape în discuție faptul că ar exista și alte soluții — să începi un capitol pe care năzuiești puternic să îl deschizi. Consideri că acest capitol îți dă oportunitatea de a te cunoaște și de a cunoaște lumea din jur.

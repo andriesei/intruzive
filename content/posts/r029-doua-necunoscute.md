@@ -1,7 +1,7 @@
 +++
 date = '2024-06-27T18:07:42+03:00'
 draft = false
-title = 'R. 24: Două Necunoscute'
+title = 'R. 029: Două Necunoscute'
 localCss = ["css/background.css"]
 +++
 Este ca într-un neant năucitor, aproape labirintic, să te gândești că o viitoare mamă, aflată pe patul de naștere, poate suferi un accident vascular cerebral și poate ajunge în starea pe care francezii o numesc sindromul omului zidit de viu. Nașterea, începutul unei vieți, poate sta astfel atât de aproape de posibilitatea morții sau a unei transformări ireversibile a celui care o aduce pe lume. 

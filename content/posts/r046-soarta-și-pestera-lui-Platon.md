@@ -1,7 +1,7 @@
 +++
-date = '2024-10-04T03:19:11+03:00'
+date = '2024-10-05T03:19:11+03:00'
 draft = false
-title = 'R. 41: Soarta și Peștera lui Platon'
+title = 'R. 046: Soarta și Peștera lui Platon'
 localCss = ["css/background.css"]
 +++
 

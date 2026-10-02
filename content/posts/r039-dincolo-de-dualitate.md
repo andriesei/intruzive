@@ -1,7 +1,7 @@
 +++
 date = '2024-08-28T13:27:09+03:00'
 draft = false
-title = 'R. 34: Dincolo de Dualitate'
+title = 'R. 039: Dincolo de Dualitate'
 localCss = ["css/background.css"]
 +++
 Nu trebuie să vorbim despre dualitate. Nu cred în dualitate. Ceea ce este mai mult decât dual este luat ca ceva ciudat. Nu este! Este echilibrul! Acest „mai mult” este al treilea. Adică mijlocul.

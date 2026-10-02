@@ -1,7 +1,7 @@
 +++
-date = '2026-03-10T14:46:53+03:00'
+date = '2025-05-31T14:46:53+03:00'
 draft = false
-title = 'R. 82: Rigiditate și Paradox'
+title = 'R. 088: Rigiditate și Paradox'
 localCss = ["css/background.css"]
 +++
 

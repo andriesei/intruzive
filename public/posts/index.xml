@@ -10,288 +10,799 @@
 		
 		
 		
-			<lastBuildDate>Tue, 08 Sep 2026 02:01:02 +0300</lastBuildDate>
+			<lastBuildDate>Fri, 02 Oct 2026 16:02:15 +0300</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/intruzive/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>R. 40: Ibidem</title>
-				<link>http://localhost:1313/intruzive/posts/r40-ibidem/</link>
-				<pubDate>Tue, 29 Apr 2025 03:19:12 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r40-ibidem/</guid>
+				<title>R111 Acel Altul</title>
+				<link>http://localhost:1313/intruzive/posts/r111-acel-altul/</link>
+				<pubDate>Fri, 02 Oct 2026 15:47:29 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r111-acel-altul/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>R110 Infinit Si Finit</title>
+				<link>http://localhost:1313/intruzive/posts/r110-infinit-si-finit/</link>
+				<pubDate>Fri, 02 Oct 2026 15:43:47 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r110-infinit-si-finit/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bula Epistemica</title>
+				<link>http://localhost:1313/intruzive/posts/r109-bula-epistemica/</link>
+				<pubDate>Fri, 02 Oct 2026 15:39:14 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r109-bula-epistemica/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>R000 00</title>
+				<link>http://localhost:1313/intruzive/posts/r000-00/</link>
+				<pubDate>Fri, 02 Oct 2026 15:34:26 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r000-00/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>R004 Miscare Si Subiect</title>
+				<link>http://localhost:1313/intruzive/posts/r004-miscare-si-subiect/</link>
+				<pubDate>Fri, 02 Oct 2026 10:54:43 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r004-miscare-si-subiect/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>R003 Masti</title>
+				<link>http://localhost:1313/intruzive/posts/r003-masti/</link>
+				<pubDate>Fri, 02 Oct 2026 10:52:37 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r003-masti/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>R. 97: Ostilitatea Naturii</title>
+				<link>http://localhost:1313/intruzive/posts/r104-ostilitatea-naturii/</link>
+				<pubDate>Sun, 27 Sep 2026 02:06:30 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r104-ostilitatea-naturii/</guid>
+				<description>&lt;p&gt;Mă gândesc la Gulliver… acel uriaș dintr‑o povestire fantasmagorică. Este o răzvrătire față de natură. Povestitorul avea nevoie să trăiască în acea fantezie, probabil. De ce natura este incapabilă și aproape neputincioasă să influențeze viața omului într‑un mod eminamente pozitiv? Ea este ostilă omului, iar omul este ostil ei.&lt;/p&gt;&#xA;&lt;p&gt;Totuși… îmi imaginez că, dacă și‑a pus această întrebare cu adevărat, înseamnă că autorul este într‑o polemică interioară. Acest reproș dat naturii nu cumva este reproșul pe care ar fi trebuit ca autorul să‑l primească din partea unui om înțelept? Adică însăși omul este ostil față de el însuși. Omul proiectează pe natură propriile sale conflicte, propriile sale ostilități.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 000: 0</title>
+				<link>http://localhost:1313/intruzive/posts/r000-0/</link>
+				<pubDate>Sun, 27 Sep 2026 01:36:25 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r000-0/</guid>
+				<description>&lt;h2 id=&#34;heading&#34;&gt;&amp;ndash;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;heading-1&#34;&gt;&amp;ndash;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;aici-este-manustrisul-ce-a-dat-nastere-acestui-proiect&#34;&gt;aici este manustrisul ce a dat nastere acestui proiect.&lt;/h2&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;&amp;ndash;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;heading-3&#34;&gt;&amp;ndash;&lt;/h2&gt;&#xA;&lt;p&gt;Reflexii &lt;/p&gt;&#xA;&lt;p&gt;Erosul și-a construit prin sine însuși catedră &lt;/p&gt;&#xA;&lt;p&gt;Umanitatea s-a deportat în exil, dar este impresionant felul în care ea se manifestă în această experiență a deisen heideggerian prin impostură. Iată omul epocii romantice și omul epocii post-moderne. Iată lumina și întunericul într-o monedă de reguli etico-morale. Să fie ștearsă această morală! Să fie dizolvată această etica! Intrați prin poarta raiului căci raiul se termină odată cu acestea două! &lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R100 Existenta Si Fiinta Azi</title>
+				<link>http://localhost:1313/intruzive/posts/r107-existenta-si-fiinta-azi/</link>
+				<pubDate>Sun, 27 Sep 2026 00:50:19 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r107-existenta-si-fiinta-azi/</guid>
+				<description>&lt;p&gt;În contextul nivelului de dezvoltare a tehnologiilor informaționale, apărute într‑o epocă postmodernistă, de mulți denumită ca era informației, se poate lesne observa apariția unui nou fenomen, al cărui efect presupun că destabilizează structurile sociale ale popoarelor.&lt;/p&gt;&#xA;&lt;p&gt;Fenomenul ar putea fi descris astfel: accesul la informații de orice natură, în ceea ce privește natura și acuratețea lor, creează, în prima instanță, un corp eterogen de sisteme de gândire. Tehnologiile digitale informaționale (precum inteligențele artificiale) ajută la selectarea celor acumulate și sistematizate în cadrul acelor sisteme de gândire, prin instrumentalizarea convingerilor, generând astfel un singur sistem de gândire ce fundamentează înțelegerea lumii pe niște piloni (valori fundamentale) nuanțat definite de la o extremă la alta.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 102: Fracturi</title>
+				<link>http://localhost:1313/intruzive/posts/r108-fracturi/</link>
+				<pubDate>Sun, 28 Jun 2026 01:16:44 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r108-fracturi/</guid>
+				<description>&lt;p&gt;Să vorbim despre dialectă. Acum ne întrebăm dacă este una empirică sau material‑raționalistă. Problema zilelor noastre este faptul că, nu de puține ori, cele două dialecte rămân independente. Adică dimensiunea teleologică se întrepătrunde doar la un anumit moment dat.&lt;/p&gt;&#xA;&lt;p&gt;Da, există aici o subtilă contrazicere: dacă ele sunt îndeplinite, ar fi trebuit ca cele două să aibă finalități diferite. Dar nu este așa. Noi avem nevoie ca convingerile noastre să fie conforme cu empirismul sau realismul în sfera cărora gândirea noastră individuală se înscrie.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 101: Estetica Diferenței</title>
+				<link>http://localhost:1313/intruzive/posts/r001-estetica-diferentei/</link>
+				<pubDate>Sun, 21 Jun 2026 01:05:46 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r001-estetica-diferentei/</guid>
+				<description>&lt;p&gt;Astăzi, pentru a‑mi face un playlist muzical, am ajuns la o piesă care mi‑a antrenat mintea (mi‑a provocat mintea) să găsească rezolvarea pentru probleme pe care aș vrea să le rezolv cu scopul de a face o lume mai bună (Red — nume de cod). A doua melodie care m‑a incitat este de la un cont cu numele de cod ren.&lt;/p&gt;&#xA;&lt;p&gt;Capitolul estetică: unele greșeli sau imperfecțiuni vocale sună frumos (e o estetică ascunsă datorită căreia s‑a născut zicala &amp;ldquo;gusturile nu se discută&amp;rdquo;). E o melodie rap în engleză. Eu, dacă sunt perceput ca &amp;ldquo;ciudat&amp;rdquo;, pentru tine este riscant (te sperii, iar eu o percep ca pe o respingere, pentru că mă vezi diferit și îți e frică de necunoscut). Melodia spune că percep acest lucru ca onorabil, pentru că această ciudățenie mă face original (în sens individualist — mă văd diferit de ceilalți, fapt care îmi dă curaj să fiu creator; omul este creator… creează lumea).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 98: Feuda</title>
+				<link>http://localhost:1313/intruzive/posts/r105-feuda/</link>
+				<pubDate>Sun, 31 May 2026 00:16:16 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r105-feuda/</guid>
+				<description>&lt;p&gt;Cum de am ajuns la acest feudalism modern? E rezultatul propriei noastre lupte împotriva propriului nostru sânge vărsat. Atunci erau pământurile, iar acum eterul… plus‑valoarea ieșită din mâinile muncitorilor.Este noul &amp;ldquo;pământ&amp;rdquo; al feudalismului modern.&#xA;Deci nu vorbesc despre valoarea produsului sau despre produsul în sine, ci despre plus‑valoarea produsului. Iar omul&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 96: Decăderi</title>
+				<link>http://localhost:1313/intruzive/posts/r103-decaderi/</link>
+				<pubDate>Sun, 24 May 2026 23:00:54 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r103-decaderi/</guid>
+				<description>&lt;p&gt;În ceea ce privește subiectul zeitgeist („starea timpurilor”), astăzi suntem martorii unui extremism. Istoric vorbind, putem vorbi despre o nelipsită prezență a acestuia într‑un mod patologic, compulsiv, dictat de o crasă manifestare a excesului de zel și a schizofreniei perfecționiste. Prin însăși perfecționismul căutat, gândirea devine una puțin organizată, având astfel repercusiuni în domeniul eticii și moralei.&lt;/p&gt;&#xA;&lt;p&gt;Acest extremism oglindește încă etosul spiritului uman aflat într‑un tumult interior și neconștientizat (dovadă fiind comoditatea și coruptibilitatea), în găsirea unei liniști sau în alimentarea acestei tensiuni până la distrugere. Distrugerea nu ține de regenerare, de acea coborâre și acel urcuș istoric. Totuși, existențialismul se complace cu acest pesimism al distrugerii. Parcă un argument ontologic substanțial ar fi în cartea Lacrimi și sfinți a lui Cioran.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 95: Intersecții și Război</title>
+				<link>http://localhost:1313/intruzive/posts/r102-intersectii-si-razboi/</link>
+				<pubDate>Tue, 19 May 2026 01:46:28 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r102-intersectii-si-razboi/</guid>
+				<description>&lt;p&gt;Nu cumva acea propoziție „noi singuri și împotriva lumii fiind” dovedește prezența anxietății? Probabil că necesitatea iubirii implică și anxietăți. Am găsit un loc din mijlocul orașului (Galați, în imediata vecinătate cu parcul Cloșca și Sala Sporturilor), a cărui liniște mă intrigă după 150 de metri parcurși de la intrarea pe acest teren delimitat de gard și în mijlocul căruia este o prelungită prăpastie, prezentă și în parcul Cloșca. Îți dă voie să te ascunzi de tot ce înseamnă oameni… deși are un singur drum bătătorit.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 94: Ploi</title>
+				<link>http://localhost:1313/intruzive/posts/r101-ploi/</link>
+				<pubDate>Fri, 15 May 2026 01:17:30 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r101-ploi/</guid>
+				<description>&lt;p&gt;Sunt contrariat. Iată omul. O ființă care, în fața începutului unei ploi, nu se clintește. El rămâne în loc, ca și cum tumultul vremii nu ar avea nicio putere asupra lui. Se ridică. Se acoperă. Și totul pare suficient pentru el.&lt;/p&gt;&#xA;&lt;p&gt;Întrebarea care s‑a născut în mine este: de ce frica mea nu seamănă cu a lui? Un răspuns ar fi că omul nu se teme de calamități naturale. Dar în mintea lui nu există nici măcar o fărâmă din acest mod de a vedea lucrurile. Pentru el, siguranța se reduce la un gest, la o acoperire minimă, la un reflex.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 94: Ethos și Kratos</title>
+				<link>http://localhost:1313/intruzive/posts/r100-ethos-si-kratos/</link>
+				<pubDate>Tue, 12 May 2026 22:03:09 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r100-ethos-si-kratos/</guid>
+				<description>&lt;p&gt;Despre cutume! Regimurile stabilesc cutumele? Și cum, de la un regim ale cărui instituții par să fi fost incluzive în a doua jumătate a secolului XX (la nivelul dezvoltării statului despre care vorbim — pentru că nu pot vorbi despre societate, capitol în care acum simt că am avut multe lacune în ceea ce privește informarea), ajungem la instaurarea unui regim (probabil exagerat exprimându‑mă în această privință) teocrat, în care etosul ideologic anterior a dispărut?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 93: Adâncimi și Culmi</title>
+				<link>http://localhost:1313/intruzive/posts/r099-adancimi-si-culmi/</link>
+				<pubDate>Thu, 07 May 2026 00:55:46 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r099-adancimi-si-culmi/</guid>
+				<description>&lt;p&gt;Ne place să vedem doar vârfurile ghețarilor. Uităm să ne uităm la adâncimi. Într‑adevăr, așa cum Biblia (psalmistul) zice, nimeni nu cunoaște adâncurile ființei în care suntem sortiți să fim. Despre această comoditate mă plângeam în paginile trecute.&lt;/p&gt;&#xA;&lt;p&gt;Un exemplu: într‑un podcast, un oarecare ridica un subiect care pentru mine este important în ceea ce privește evoluția umanității. Mi s‑a părut că este o gândire înapoiată. Iar aici sunt nazist. Persoana zicea că omul nu găsește fericirea pentru că este invidios pe cel care este într‑o clasă socială superioară lui. Nu invidia este explicația acestui fenomen, de care probabil doar cel care se simte confortabil în pielea lui nu îl conștientizează deplin.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 92: Alterități</title>
+				<link>http://localhost:1313/intruzive/posts/r098-alteritati/</link>
+				<pubDate>Sun, 03 May 2026 21:54:41 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r098-alteritati/</guid>
+				<description>&lt;p&gt;De ce mai vorbim despre rasism? Așa ceva nu ar trebui să existe nici în sânge, nici în educație, nici în cutuma socială. Consider că, pe lângă problema discursurilor de orice natură duse până la extremism, e nevoie să se vorbească despre inconsistența discursului rasial. Când vom învăța că o exagerare naște o contra‑reacție care naște, la rândul ei, cele două tabere ce se plasează la 180° (de grade)? Suntem roboți? Și cât de mult ne place să fim roboți când ne naștem în discurs astfel de abordări.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 91: Pedagogia Libertății</title>
+				<link>http://localhost:1313/intruzive/posts/r097-pedagogia-libertatii/</link>
+				<pubDate>Thu, 30 Apr 2026 23:53:27 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r097-pedagogia-libertatii/</guid>
+				<description>&lt;p&gt;Cu privire la responsabilitatea venită odată cu nașterea de copii, probabil că discursurile ce au legătură cu acest subiect nu ar fi trebuit să atingă tangențial sănătatea psihologică a viitorilor părinți cu o viață normală. Am citit un articol în încercarea mea de a crea un studiu. Avea legătură cu educația copiilor. Vorbea despre un antropolog (era specializat doar pe o parte din ceea ce înseamnă antropologie). Articolul aducea în prim‑plan reproșul pe care antropologul în cauză îl făcea cu privire la natura educației copiilor. Propunea o îmbinare dintre iubire și libertate. De fapt, se referea la narativul educării copiilor prin iubire.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 90: Sisif</title>
+				<link>http://localhost:1313/intruzive/posts/r096-sisif/</link>
+				<pubDate>Mon, 27 Apr 2026 20:52:41 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r096-sisif/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>R. 89: Operare et Polis</title>
+				<link>http://localhost:1313/intruzive/posts/r095-operare-et-polis/</link>
+				<pubDate>Thu, 23 Apr 2026 22:51:55 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r095-operare-et-polis/</guid>
+				<description>&lt;p&gt;Interesant este modul în care discursul populist politizat este cu ușurință asumat de artiști. Probabil se datorează existenței claselor sociale, împotriva cărei idei s‑a născut — și încă se observă — o luptă crâncenă care a ajuns până la mit și mitizare. Hai să scăpăm de acest rit. Cum? Se vede de la distanță faptul datorită căruia această vărsare de sânge nu își are efecte extrem de durabile. Iar, în contextul de față, mă gândesc la mii de milenii.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 88: Morala și Ruinele</title>
+				<link>http://localhost:1313/intruzive/posts/r094-morala-si-ruinele/</link>
+				<pubDate>Thu, 16 Apr 2026 19:51:06 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r094-morala-si-ruinele/</guid>
+				<description>&lt;p&gt;Probabil singura revoltă față de biserică pe care o simt foarte accentuat este incapacitatea ei de a găsi soluții, iar ceea ce agravează situația este complicitatea și conformismul. Și da, nici măcar domeniile laice nu au găsit soluții fără a atenta la libertatea de a avea convingeri. Misiunea bisericii este de a face facil mesajul evanghelic. Nu cred că este vorba despre epistemologie din partea celor specializați (nu se poate vorbi despre specializare în domeniul teologic, dar mă simt nevoit să apelez la acest limbaj). În caz contrar m‑aș fi simțit îndreptățit să lupt prin fapte și retorică pentru biserică și Biblie. Dar este ca un castel ruinat. Conservatorismul nu înseamnă a fi latent. Este ceea ce ne spune Hristos: ceea ce este rece este demn de lepădat — interpretare ce ține de contextul literar și de paradigma ridicată în acele versete biblice. Conservatorismul nu este acțiunea care ține lumea într‑un loc.Așa cum putem vorbi despre „vârsta Fiului Omului”, tot la fel putem vorbi despre „vârsta ideilor, a sistemelor de filosofare, a structurilor de guvernanță și a emancipării”.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 87: Inconștientul</title>
+				<link>http://localhost:1313/intruzive/posts/r093-inconstientul/</link>
+				<pubDate>Sat, 11 Apr 2026 21:50:28 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r093-inconstientul/</guid>
+				<description>&lt;p&gt;Interpretarea visurilor! Sunt două curente. Primul — nu după importanță, ci după gradul de răspândire în sânul maselor — este influența religiosului. Dacă visez acest lucru, așa va fi pe viitor! Dacă visez acest lucru, se va întâmpla invers.&lt;/p&gt;&#xA;&lt;p&gt;Al doilea curent este cel pe filiera psihanalizei: Ce simbolizează și descrie ceea ce am visat? Oare care descrie realitatea? Sau este un lucru banal? Și dacă e un lucru banal, de ce există o fervoare pe acest subiect încă din vremuri mult îndepărtate? Creierul nu suportă întunericul. De ce există o mitologizare a visului? Cu privire la vedenii putem spune multe, la fel ca în cazul visurilor. Este impresionant cum un astfel de domeniu devine un stigmat a ceea ce putem încă numi umanitate. Cei care au citit mai sus și cunosc trecutul și prezentul deopotrivă vor înțelege despre ce vorbesc.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 86: Ura</title>
+				<link>http://localhost:1313/intruzive/posts/r092-ura/</link>
+				<pubDate>Sun, 05 Apr 2026 18:49:28 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r092-ura/</guid>
+				<description>&lt;p&gt;Oare sacralizarea slujește obiectivizării ideilor? Vorbesc despre sacralizarea celor apriorii — sacralizarea formei ideilor. Și da, se pare că aceasta ne salvează de complexitatea vieții. Este obiectivizarea propriei noastre umanități. Ura noastră față de noi înșine. Pentru că nu putem înțelege status‑quo‑ul existenței noastre. Pe acesta îl vedem ca pe un oponent cu care suntem în război.&#xA;Ceea ce este mai frapant este faptul că am folosit termenul &amp;ldquo;război&amp;rdquo; — un conflict rapid rezolvat prin această sacralizare a formelor ideilor. După aceea ne întrebăm ce înseamnă &amp;ldquo;minciună&amp;rdquo; sau &amp;ldquo;adevăr&amp;rdquo;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 85: Hegemonii ale Ideilor</title>
+				<link>http://localhost:1313/intruzive/posts/r091-hegemonii-ale-ideilor/</link>
+				<pubDate>Mon, 30 Mar 2026 20:48:57 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r091-hegemonii-ale-ideilor/</guid>
+				<description>&lt;p&gt;Despre triburi/bule… Convingerile se formează în urma căutării unui adevăr. De fapt, este vorba despre răspunsuri la diverse întrebări. Căutătorul este sortit atât afirmațiilor, cât și infirmațiilor. Afirmația este cea care leagă sisteme de gândire, formând grupuri datorită nevoii de a găsi ceea ce îi va confirma cealaltă arie conținută de concepții și concepte. Are impresia că este vorba despre argumente anevoie contestabile. Impresia este construită pe axiome.&lt;/p&gt;&#xA;&lt;p&gt;Această nevoie vine din imediata terifiere față de existența brută, care îi este ofensivă. Probabil această brutalitate este prezentă în miile și miile de concepții. Și da, aceasta pentru că terifierea este individuală încă de la naștere. Această cauzalitate (față de care încă nu mă dezic) creează bule și conflicte. Este ceva ireconciliabil! Nici măcar misticul, religiosul, crezul nu o poate stinge.&#xA;Până acum vorbeam despre imperii și colonii, despre națiuni și autonomii. Se pare că terenul nu mai constituie acel etos. Acum entități străine stăpânesc teritorii străine. De ce există atât activism pro‑Palestina? Nu cumva datorită hegemoniei Chinei — despre care sunt conștient că încearcă să se manifeste asupra Africii — și eu nu sunt conștient că aceeași hegemonie este prezentă și în Orientul Mijlociu? Nu este un argument al celor de mai sus, dar poate constitui o paradigmă.&#xA;Este creată deja o convingere (mișcările pro‑Palestina), dar aceasta poate fi oricând contrazisă de tangentiabilele arii conceptuale ce sunt ignorate până la eliminare conceptuală. Drept încheiere aduc în discuție problema „adevărului relativ”. Am o nelămurire… nu cumva, până aici, în cadrul lucrării, insinuez faptul că rațiunea nu ține de firea umană? Un teolog s‑ar întreba: care rațiune?”&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 84: Internalizări</title>
+				<link>http://localhost:1313/intruzive/posts/r090-internalizari/</link>
+				<pubDate>Mon, 23 Mar 2026 17:48:18 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r090-internalizari/</guid>
+				<description>&lt;p&gt;Tirania creează convingeri favorabile ei, probabil. Educația austeră perpetuează austeritatea chiar și în mod inconștient.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 83: Trans-umanul</title>
+				<link>http://localhost:1313/intruzive/posts/r089-trans-umanul/</link>
+				<pubDate>Tue, 17 Mar 2026 19:47:42 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r089-trans-umanul/</guid>
+				<description>&lt;p&gt;Morala nu trebuie să fie conservatoare. Dacă ar fi fost, ideea de progres uman — acele utopii — nu ar fi putut exista. Pentru a mă face explicit, mă simt nevoit să spun că năzuințele noastre trebuie să fie constructive pentru existența umanului din noi, cât mai mult posibil, prin perseverență elegantă. Lipsa acestei eleganțe naște monștri. Monștrii aceștia îmi creează anxietate.&#xA;Am ajuns să avem enorm de multe persoane care, revoltați, strigă: «Ce anxietate?» Este o inconștientizare pe care aș vrea să cred că o putem împăca — o putem reconcilia — prin rațiune. Și iarăși sunt nevoit să vorbesc despre ea. Conservatorismul nici nu ar fi trebuit să mă oblige să mă leg de cuvintele «alegerea ta». Este vorba despre a fi uman. Ironic vorbind, aș vrea să spun că până și roboții sunt mai umani decât noi.&#xA;Oare trans‑umanismul este salvarea noastră? Deocamdată sunt în dezacord. Singurul acord pe care l‑aș putea avea în cadrul acestei ideologii ar fi după mulți ani de viață. E și pesimism, dar și optimism în același timp. Am adus în discuție acest subiect pentru că problema LGBTQ se interferează cu această temă, dacă ar fi să medităm pe marginea ei.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 82: Rigiditate și Paradox</title>
+				<link>http://localhost:1313/intruzive/posts/r088-rigiditate-si-paradox/</link>
+				<pubDate>Tue, 10 Mar 2026 14:46:53 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r088-rigiditate-si-paradox/</guid>
+				<description>&lt;p&gt;Hai să vorbim despre această lozincă! Nu cred în afirmația «existența mea nu e alegerea ta». Da, filosofia existențială are o ramură în care primordial este acel fel de a fi. Acest fel de a fi este cunoscut de mulți. Dacă ne-am rezuma doar la el, am fi de acord cu accepțiunea succint exprimată prin rigiditate. Și da, contextual este vorba despre destin și soartă. Doar că una dintre aceste două idei este mult mai flexibilă și ne conferă o soluție.&#xA;Ciudat — și intrigant — este faptul că acest element flexibil estompează și, de ce să nu spun, blochează într-un mod autoritar ideea de schimbabilitate atât a firii umane, cât și a condiției omului. Însăși condiția omului poate schimba acel fel de a fi. Uneori această sintagmă este identificată cu o condiționare a percepțiilor din trecut, care străpunge nu doar prezentul, ci și viitorul.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 81: Fatalitate și Axis Mundi</title>
+				<link>http://localhost:1313/intruzive/posts/r087-fatalitate-si-axis-mundi/</link>
+				<pubDate>Thu, 05 Mar 2026 16:46:09 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r087-fatalitate-si-axis-mundi/</guid>
+				<description>&lt;p&gt;Probabil faptul că viața și moartea sunt înconjurate de fatalism se datorează aroganței noastre, care ne împinge să luptăm pentru a ne auto‑confirma antropocentrismul universal. Este uimitor și, în același timp, dezgustător cum încercăm — în ignoranța noastră prea slab conștientizată — să definim un drum sau o cale progresistă ori evolutivă.&lt;/p&gt;&#xA;&lt;p&gt;Probabil depășirea senzației de fatalism, senzație germinată rațional, constă în a conștientiza faptul că nu „soarele se învârte în jurul pământului”. Pentru această ipoteză (care, într‑adevăr, nu mai intră astăzi în discuție ca probabilitate) a fost vărsat sânge de om. Acum putem vorbi despre altceva mult mai profund — deși sunt conștient că încă există în lume astfel de regretabile contexte factuale. Este vorba despre sacrificarea realității în favoarea iluziilor și discursurilor de care ne‑am îndrăgostit cu atâta ardoare, încât nici nu putem ieși din această gândire simplistă pe care o elogiem la fiecare pas.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 80: Libertate și Securitate</title>
+				<link>http://localhost:1313/intruzive/posts/r086-libertate-si-securitate/</link>
+				<pubDate>Sun, 01 Mar 2026 13:14:26 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r086-libertate-si-securitate/</guid>
+				<description>&lt;p&gt;Cu privire la De ce eșuează națiunile, o carte pe care o consider foarte importantă pentru a înțelege o părticică din psihologia „națiunilor” în universalitatea sensului acestui termen, dar care nu reușește să rezolve paradigma libertății. Vorbește foarte mult despre distribuirea uniformă a drepturilor egalitariste și despre stimulentele specifice democrației, care ar trebui să joace un rol decisiv în ascensiunea națiunilor din punct de vedere economic, politic și, prin extensie, social (deși urmărește doar primele două dimensiuni).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 79: Impostura</title>
+				<link>http://localhost:1313/intruzive/posts/r085-impostura/</link>
+				<pubDate>Wed, 25 Feb 2026 13:06:23 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r085-impostura/</guid>
+				<description>&lt;p&gt;Virtutea nu este acțiunea lui Nietzsche. Este acțiunea umanului, a ființării. Este un strigăt — nu împotriva trans‑umanismului, ci împotriva dispariției imposturii. Jos impostura! Totuși, o salvare împotriva imposturii este inacțiunea. Este acea sinucidere fără sens a lui Cioran. Uite aici echilibrul.&lt;/p&gt;&#xA;&lt;p&gt;Dar adevărul meu nu este al tău. Nici adevărul tău nu este al meu. Este iubirea față de anti‑impostură. Unde ești, ființarea mea? O estetică a ființării… Cât dogmatism aici! Mă revolt față de aceste cuvinte și simboluri. Singura durere cu care m‑aș împăca este cea din Metamorfoză lui Kafka. Chiar dacă îmi pricinuiește lacrimi, este o reconciliere… sau, mai degrabă, o disperare? Nicio rațiune nu poate dicta ce înseamnă impostura. De ce? Pentru că aici vorbim despre ființare.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 78: Topos</title>
+				<link>http://localhost:1313/intruzive/posts/r084-topos/</link>
+				<pubDate>Fri, 20 Feb 2026 13:00:48 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r084-topos/</guid>
+				<description>&lt;p&gt;Ființa este cea care locuiește existența. Existența este un suport și o salvare a ființei. Dar existența este salvarea umanului, pentru că, ipotetic vorbind, ea poate exista în afara acestuia. Umanul înglobează existența. Existența înrobește ființa. De ce? Pentru că ideea de masă este existența ființării impersonale.&lt;/p&gt;&#xA;&lt;p&gt;Ca o paranteză: în momentul în care alături două contraziceri, ele se anulează reciproc. Devin lipsite de ființă și existență. Am inversat ordinea termenilor. Revenim: masa este «ființarea» existenței. O să par existențialist în ceea ce urmează. Dacă masa este ființarea — ceea ce e o nebunie — atunci această ființare este supusă existenței. Amuzant.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 77: Coruptibilitatea</title>
+				<link>http://localhost:1313/intruzive/posts/r083-coruptibilitatea/</link>
+				<pubDate>Fri, 13 Feb 2026 12:51:40 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r083-coruptibilitatea/</guid>
+				<description>&lt;p&gt;Oportunismul firii umane… Mai înainte am crezut că această coruptibilitate este din substanța omului. Și da, coruptibilitatea și oportunitatea au verigi comune, indiscutabil și irevocabil, indiferent de orice silogism logic care se proclamă salvat de misticism sau de ceea ce ar putea fi spus despre citadin, în afara esenței. Este o expresie dogmatizantă.&lt;/p&gt;&#xA;&lt;p&gt;Probabil că fraza «banii zic totul», frază prin care societatea își transpune acest «exist pentru că ființez» peste meschinele interese pline de pete sângerii, este singurul Mesia. Sunt ironic. Însuși faptul că în secolul precedent vorbeam despre un «super‑uman» dovedește o aroganță scârboasă față de ființare. De unde această scârbă? Oportunismul. Nu oportunismul care respectă dreptul ființei umane, ci acela care îl încalcă.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 76: Etica și Biopoliticul</title>
+				<link>http://localhost:1313/intruzive/posts/r082-etica-si-biopoliticul/</link>
+				<pubDate>Sat, 07 Feb 2026 04:17:09 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r082-etica-si-biopoliticul/</guid>
+				<description>&lt;p&gt;Nu cumva asistăm la o fascizare a eticii? Uite una dintre știri de azi care mi-a adus aminte de cele despre care aflam în timpul celor 6 ani de studenție. „Castrarea chimică voluntară va fi introdusă în 20 de închisori din Regatul Unit (&amp;hellip;). [Pentru] a suprima dorința sexuală a infractorilor sexuali”. In Georgia, pe motiv că avortul e interzis, o femeie este conectată la aparate de menținere a funcțiilor vitale in comă cerebrală încă din februarie (vezi și r. 24). Iată două extreme&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 75: Paradoxul Libertății și Exilul din Eden</title>
+				<link>http://localhost:1313/intruzive/posts/r081-paradoxul-libertatii-si-exilul-din-eden/</link>
+				<pubDate>Wed, 04 Feb 2026 04:04:52 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r081-paradoxul-libertatii-si-exilul-din-eden/</guid>
+				<description>&lt;p&gt;Într-o lume în care spada morții strabunge în mod ireconciliabil străfundurile ființei umane libertatea încă este unt termen ambiguu pentru umanitate. Singura libertate era, dacă e să adoptăm discursul biblic, în Eden unde nu se putea vorbi sau găsi teren de exprimare a ideii de morală și conștiință. Biblia încearcă să elogieze conștiința că pe un garant al libertății lumii în care trăim. Paradoxal.. nu?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 74: Un mic Tratat despre Veșnicie</title>
+				<link>http://localhost:1313/intruzive/posts/r080-un-mic-tratat-despre-vesnicie/</link>
+				<pubDate>Fri, 23 Jan 2026 03:54:28 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r080-un-mic-tratat-despre-vesnicie/</guid>
+				<description>&lt;p&gt;Iată o disecare a unei probleme ce ne preocupă în fiecare clipă a zilei, chiar dacă vrem să recunoaștem sau nu.&#xA;„Sau, altfel spus… de ce suntem atât de ahtiați să lăsăm pentru următoarele milenii (sau zeci ori mii de milenii) o anumită moștenire, chiar dacă ea este insignifiantă? Tânjim după veșnicie! Probabil de aici vine acea nevoie de convingeri și mit. Da, istoria ne‑a dovedit că această „mobilizare” în numele lor poate fi benefică.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 73: Memorandum</title>
+				<link>http://localhost:1313/intruzive/posts/r079-memorandum/</link>
+				<pubDate>Thu, 15 Jan 2026 03:39:57 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r079-memorandum/</guid>
+				<description>&lt;p&gt;Viața mi‑a pus în față două viziuni. Nu mă aștept ca totul să se rezume la ele. Pentru a le marca precum cu un highlighter (este a doua oară când fac acest lucru aici), menționez că este vorba despre bunicii mei. Este vorba despre o eroare a sistemului sanitar de stat și despre încă o altă fatalitate: un accident rutier. Chiar dacă în ambele cazuri putem vorbi degajat despre fatalitate, a doua situație este una mai împăciuitoare.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 099: Libertatea și Frica</title>
+				<link>http://localhost:1313/intruzive/posts/r106-libertatea-si-frica/</link>
+				<pubDate>Mon, 06 Oct 2025 01:45:44 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r106-libertatea-si-frica/</guid>
+				<description>&lt;p&gt;Ciudat este faptul că, la această dată, urmăresc un documentar (mai mult artistic decât științific, dar destul de relevant) care are în centrul lui discursiv începerea celui de‑al Doilea Război Mondial, având ca principal subiect viața germanilor acelor vremuri. Făcând o transpunere a prezentului discurs rus cu privire la NATO și expansiunea acestuia, se pare că avem în față o oglindire a modului de a emite explicații pentru situația curentă (începerea și motivarea unui război pentru masele de populații) venite din partea organelor de guvernare statală.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 72: Conceptual-politic: Ignoranță și Destin</title>
+				<link>http://localhost:1313/intruzive/posts/r078-conceptual-politic-ignoran%C8%9B%C4%83-si-destin/</link>
+				<pubDate>Thu, 10 Apr 2025 03:28:15 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r078-conceptual-politic-ignoran%C8%9B%C4%83-si-destin/</guid>
+				<description>&lt;p&gt;Un om care încearcă să fie bine informat reușește să fie convins abia la sfârșitul perioadei electorale. De ce? Pentru că se simte responsabil să se asigure că nu este manipulat. Niciodată nu trebuie să fii convins de propriile tale convingeri, chiar și în al doisprezecelea ceas. De ce? Este vorba despre a discerne informația. Nici măcar existența algoritmului nu îți garantează privilegiul de a cunoaște realitatea în întregime. Acest proces este gratuit. Vor veni vremuri în care nu vom mai putea vorbi despre gratuitate în legătură cu acest subiect.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 71: Fabrica Uitării Umanului</title>
+				<link>http://localhost:1313/intruzive/posts/r077-fabrica-uitarii-umanului/</link>
+				<pubDate>Tue, 08 Apr 2025 00:28:30 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r077-fabrica-uitarii-umanului/</guid>
+				<description>&lt;p&gt;Nu cumva ideologiile și‑au pierdut din scopurile pentru care au fost construite? Nu cumva propaganda a îmbrăcat o haină mult mai subtilă decât cea din secolul precedent? Cum se face că jumătatea de minciună a devenit adevăr absolut? Mă refer la faptul că, deși este cunoscut că e doar jumătate de adevăr, ea devine substanța adevărului absolut expus maselor.&lt;/p&gt;&#xA;&lt;p&gt;De fapt, această jumătate de adevăr considerată irelevantă (și apropo: se pare că relevanța ține de preferințe) este efectul acestei „desființări a omului” despre care C. S. Lewis vorbește. Omul născut în Fabrică… industrializarea destinelor generațiilor după generații. Societatea nu reușește să depășească această paradigmă. Nu reușește să‑și depășească propria condiție. Condiția nu trebuie să dicteze Omul. Probabil de aceea unii și‑au pus problema „liberului arbitru”.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 70: Moartea Utopiei</title>
+				<link>http://localhost:1313/intruzive/posts/r076-moartea-utopiei/</link>
+				<pubDate>Mon, 31 Mar 2025 02:20:50 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r076-moartea-utopiei/</guid>
+				<description>&lt;p&gt;Strigăm toți: dărâmăm tot, pentru că totul e compromis! În loc să folosești bisturiul, apelezi la ferăstrău. De ce nu alegem cele mai non‑invazive proceduri? Acest sistem este plin de sânge — sângele celor care au militat pentru diverse opinii. Asta ar însemna că nu mai are sens să fim militanți. Ai zice că pământul strigă după sânge. Materializăm utopiile prin vărsarea propriului nostru sânge. Dar aceste utopii au o viață scurtă: ele mor odată ce metamorfozarea într‑o formă mai evoluată necesită vărsare de sânge. Și mă refer și la sensul acestui termen folosit la începutul acestei reflecții.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 69: Interiorul Oscilant</title>
+				<link>http://localhost:1313/intruzive/posts/r075-interiorul-oscilant/</link>
+				<pubDate>Wed, 26 Mar 2025 02:04:49 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r075-interiorul-oscilant/</guid>
+				<description>&lt;p&gt;Când ai mai multe opțiuni, îți focusezi discursul până la disoluția diverselor convingeri pe care le ai. Și da, aceasta este capcana! Te identifici cu un discurs, deși, la nivel individual, unele subiecte sunt prea tangentiale, încât îți dau impresia că pot intra în sfera abstractizării. Rezultatul? Ipocrizie și impostură!&lt;/p&gt;&#xA;&lt;p&gt;Când opțiunile de alegere se restrâng, devine penibil (doar pentru a evita disonanța). Dar, pentru că nu vrei să fii considerat un traseist ideologic, nu vrei să îți asumi identitatea pe care ulterior ai afișat‑o. Este vorba despre intersecția unor idei din cadrul a două moduri de gândire. Faci partizanat cu toată convingerea, investind emoții în acele idei, dar te trezești în fața unui fapt împlinit. Normal ar fi fost ca, fiind în fața acestui fapt împlinit, să militezi în continuare pentru sistemul de convingeri în care credeai. Câtă ironie față de rațiune!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 68: Moralitatea și Moștenirea Sângelui</title>
+				<link>http://localhost:1313/intruzive/posts/r074-moralitatea-si-mostenirea-sangelui/</link>
+				<pubDate>Fri, 21 Mar 2025 04:23:29 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r074-moralitatea-si-mostenirea-sangelui/</guid>
+				<description>&lt;p&gt;Cum a ajuns marketingul sa devină o valoare centrală în tot ce ne înconjoară chiar și în cele mai subtile moduri care depășește limita bunului simt? Și revenind la subiect: cine dictează ceea ce trebuie sa fie cos sau păstrat ( mă refer la conservatorism)? Ce rațiune este cea care pavează drumul nostru spre a ceea ce ar trebui să devenim? Un for moral? Și moralitatea aceasta cum de a pătat cu sânge drumul in care încă suntem? Da! Mă uit a trecut si la viitor asumandu-mi greșelile precedentențiilor noștri. Noi suntem succesorii lor! Misiunea noastră este a nu mai păta acest drum. Chiar în săptămâna trecută mă gândeam: oare nu cumva pământul însetează după sânge? Dar pentru că vreau sa cred că soarta și destinul este in mână noastră tind sa fiu convins că suntem capabili să onoram următorul parcurs al drumului care este in fata voastră fără a o pată nici măcar cu un trop de sânge (fizic sau moral în accepțiunea multora).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 67: Schisma: Ideologie, Antropologie și Epistemologie</title>
+				<link>http://localhost:1313/intruzive/posts/r073-schisma-ideologie-antropologie-si-epistemologie/</link>
+				<pubDate>Thu, 13 Mar 2025 04:17:38 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r073-schisma-ideologie-antropologie-si-epistemologie/</guid>
+				<description>&lt;p&gt;Pe viitor poate o sa se vorbească despre centru-progresism. Este un prosesism conservatorist. Azi vorbim despre dreapta conservatoristă. Nici în această dreapta conservatoristă nu mă regăsesc. Dacă sunt pentru meritocrație sunt feminist? Nu sunt! Ciudat lucru este faptul că mulți se leagă de meritocrație feminiști fiind. Și da! Îmbrățișez unele ramuri ale feminismului. Dar le resping pe cele extreme feministe. Subiectul acesta mă duce cu gândul la ecologism. Și aici avem multe spectre de gândire.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 66: Tensiuni</title>
+				<link>http://localhost:1313/intruzive/posts/r072-tensiuni/</link>
+				<pubDate>Sat, 01 Mar 2025 14:50:25 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r072-tensiuni/</guid>
+				<description>&lt;p&gt;Moartea? E un strigăt! Este strigătul neauzit. Este strigătul substanței. Este răzvrătire. Este elogiul non‑substanței și non‑formei. Este o psaltire a non‑ființării. E mai mult decât război și sânge! Este mai mult decât identitate! Este o dezrădăcinare. Este plânset și groază. Este durere și frică. Frica doare și mai mult decât atât. Este dorința de (potențare spre) dezintegrare în vid, nu vidul plin de energie, ci unul plin de absență. E neputința de a transfigura lumea. Este criză și dărâmare! Este detonare… da! Detonarea este cuvântul potrivit. E mai mult decât disperare și angoasă. Este sângele nevăzut. Este dor de non‑existență. Este semnătura pe care noi am iscălit‑o pe contractul morții, acceptând toate clauzele contractuale ale conștiinței. Este zgomot mut… slăbiciunea morții este viața. Dar este frica de vulnerabilitate slăbiciunea vieții?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 65: Fenomenologia Persoanei în Solitudine</title>
+				<link>http://localhost:1313/intruzive/posts/r071-fenomenologia-persoanei-in-solitudine/</link>
+				<pubDate>Sat, 22 Feb 2025 14:05:57 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r071-fenomenologia-persoanei-in-solitudine/</guid>
+				<description>&lt;p&gt;De unde concepția că libertatea se plătește cu sânge? Oameni zâmbind înainte de execuții, strigând „libertate lumii!”. Cum de moartea totalitarismului impune ideea de sânge drept otravă pentru acesta? Pentru mulți este logică. Doar că logica mea vorbește despre însăși substanța ei. A fi rațional nu înseamnă convingeri care nasc curente totalitariste. Convingerile tale însă au ca baze axiome și ipoteze. Aceste convingeri nu rezistă la cutremure. Însuși faptul că vine vorba despre sânge, acestea trebuie considerate fragile. Aceasta pentru că umanitatea trebuie să gândească în favoarea dezvoltării ei. Umanitatea nu evoluează prin vărsare de sânge.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 64: Fundamentele Convingerilor</title>
+				<link>http://localhost:1313/intruzive/posts/r070-fundamentele-convingerilor/</link>
+				<pubDate>Sun, 16 Feb 2025 14:03:16 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r070-fundamentele-convingerilor/</guid>
+				<description>&lt;p&gt;De unde concepția că libertatea se plătește cu sânge? Oameni zâmbind înainte de execuții, strigând „libertate lumii!”. Cum de moartea totalitarismului impune ideea de sânge drept otravă pentru acesta? Pentru mulți este logică. Doar că logica mea vorbește despre însăși substanța ei. A fi rațional nu înseamnă convingeri care nasc curente totalitariste. Convingerile tale însă au ca baze axiome și ipoteze. Aceste convingeri nu rezistă la cutremure. Însuși faptul că vine vorba despre sânge, acestea trebuie considerate fragile. Aceasta pentru că umanitatea trebuie să gândească în favoarea dezvoltării ei. Umanitatea nu evoluează prin vărsare de sânge.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 63: Precedentul Ignoranței</title>
+				<link>http://localhost:1313/intruzive/posts/r069-precedentul-ignorantei/</link>
+				<pubDate>Sun, 09 Feb 2025 14:01:20 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r069-precedentul-ignorantei/</guid>
+				<description>&lt;p&gt;Cât circ și câte vieți umane răvășite de această mișcare a revizionismului istoric, revendicat de imperialismul ideologic al Rusiei! Ce anume naște precedentul? Oare nu ignoranța față de ceea ce suntem, de fapt? Fuga de vulnerabilitate naște în noi nevoia de a ne impune unii altora identitatea, prin căutarea validării prin orice mijloace posibile, în multe cazuri uitând că nu acest comportament arată prezența identității și a siguranței.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 62: Lamentații</title>
+				<link>http://localhost:1313/intruzive/posts/r068-lamentatii/</link>
+				<pubDate>Sun, 02 Feb 2025 14:25:11 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r068-lamentatii/</guid>
+				<description>&lt;p&gt;&amp;hellip; „Nu suntem pe deplin creștini și nici măcar umani dacă nu știm să vedem persoana înainte de acțiunile sale, înainte de judecățile și prejudecățile noastre.” Este o referire la etniile prezente în fiecare țară în parte. Se pare că nu am avut nevoie să aud aceste cuvinte ale lui Francisc, rostite cu ocazia prezenței sale de 3 zile în România. Însăși critica și învățăturile Sfinților Părinți mi-au dat ocazia să observ acest lucru.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 61: O Teologie a Conflictului</title>
+				<link>http://localhost:1313/intruzive/posts/r067-o-teologie-a-conflictului/</link>
+				<pubDate>Fri, 31 Jan 2025 14:03:36 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r067-o-teologie-a-conflictului/</guid>
+				<description>&lt;p&gt;Care este granița între soartă și haos? Nu cred în soartă (deși poți să intervii asupra ei), dar nici în haos (pentru că această ceață este extrem de lipsită de sens). Unde este Pantocratorul? Unde este iubitul meu Pantocrator, care este plin de simțăminte părintești? Unde ești, Părinte! Dacă ai fi existat, copiii tăi ar fi înțeles importanța risipei de sânge! Nu cumva îți place să vezi roșul după care strigă fără încetare pământul atât de negru? Cum poți să îmi risipești din fața ochilor mei pentru totdeauna?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 60: O Fenomenologie a Doinei</title>
+				<link>http://localhost:1313/intruzive/posts/r066-o-fenomenologie-a-doinei/</link>
+				<pubDate>Wed, 29 Jan 2025 02:00:42 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r066-o-fenomenologie-a-doinei/</guid>
+				<description>&lt;p&gt;Nu îl interesează pe univers faptul că Dumnezeu este Mesia (nici măcar nu este contrariat cu privire la ideea unui Dumnezeu întrupat). Pentru el poate fi atât adevărat, cât și fals simultan. Dar totuși, aici rațiunea se oprește. De ce? Pentru că nu poate ieși din sfera simbolurilor. Experimentăm pentru că dăm existenței simboluri! Și nu acesta este singurul argument pentru legătura dintre sentiment și rațiune.&lt;/p&gt;&#xA;&lt;p&gt;Deci universul nu are sentiment. Înseamnă că lipsa rațiunii este echilibrul? Și după moarte cu ce anume rămânem în acest caz? Conștiința nu este compusă din sentimente? Eu știam că da&amp;hellip; De ce căutăm bucuria, dacă este să vorbim dintr‑o altă perspectivă?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 59: Echidistanță și Liberul Arbitru (argument)</title>
+				<link>http://localhost:1313/intruzive/posts/r065-echidistanta-si-liberul-arbitru-argument/</link>
+				<pubDate>Sun, 26 Jan 2025 01:53:56 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r065-echidistanta-si-liberul-arbitru-argument/</guid>
+				<description>&lt;p&gt;Cum îmi arată materia că este a vieții? Nu cumva atrocitățile prezente atât în trecut, cât și în prezent sunt dovada dualismului care conferă existenței — și implicit universului — capacitatea de a fi atât de tăcut și echilibrat? Este o tăcere care trece viața și moartea. Este tăcerea existenței, pe care o poți vedea doar dacă vei apela la acea gândire care pleacă de la general la particular.&lt;/p&gt;&#xA;&lt;p&gt;Și dacă acest univers mut (și nu este o figură de stil) este atât de echidistant față de ceea ce noi, ca forme de viață, experimentăm (deși această experiență este nemijlocit posibilă datorită lui — aici mă refer la spațiu‑timp), suntem ancorați negreșit în ceea ce noi avem posibilitatea de a numi liberul arbitru. Bucuria și alegerea de a da o conotație pozitivă unor evenimente se datorează acestui fapt.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 58: Timpul Sacru (?)</title>
+				<link>http://localhost:1313/intruzive/posts/r064-timpul-sacru/</link>
+				<pubDate>Fri, 24 Jan 2025 00:45:58 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r064-timpul-sacru/</guid>
+				<description>&lt;p&gt;Încă de mic, detașat fiind de tot ceea ce însemna FESTIN, am observat o banalitate a sărbătorilor. Doar simbolurile de care societatea se consideră eminamente atașată fac percepția timpului să fie una extrem de specială. Și da, nu vorbesc doar despre un singur moment de sărbătoare! Voi credeți că timpului îi pasă de valoarea pe care i‑o dați? Credeți că spațiul este interesat de locurile cărora le acordăm o anumită însemnătate? Însuși comportamentul vostru dovedește o lipsă de determinare! Noi strigăm, dar existența este indiferentă. Trăim, dar universul este plin de moarte. Da! Chiar dacă este unul al vieții și al morții, tot parcă totul este mort. El este indiferent față de viață.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 57: Sacralizarea Politicului</title>
+				<link>http://localhost:1313/intruzive/posts/r063-sacralizarea-politicului/</link>
+				<pubDate>Fri, 17 Jan 2025 01:28:18 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r063-sacralizarea-politicului/</guid>
+				<description>&lt;p&gt;Cum poate ca „masa” să se pună în slujba divinului? Ce înseamnă, în acest cuvânt, „divinului”? Ce înseamnă a fi „în slujba divinului” ca populație? Fraților! Ziceți odată pentru totdeauna ce înseamnă „divin”, dar, cu mult mai mult decât atât, „a fi în slujba divinului”! Despre politizarea „divinului” vorbim aici? Da! Chiar este o întrebare destul de abstractă. Dar cum să ai un discurs abstractizat în acel mod în care să prindă la opinia publică?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 56: Antinomii Liturgice</title>
+				<link>http://localhost:1313/intruzive/posts/r062-antinomii-liturgice/</link>
+				<pubDate>Thu, 09 Jan 2025 01:26:27 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r062-antinomii-liturgice/</guid>
+				<description>&lt;p&gt;Cât de înălțătoare este sobrietatea și solemnitatea! Cât de împlinitoare este tânguirea și plânsul! Ce plină de slavă este batjocora! Cât de înțelepțitoare este nebunia! Cât de divin este diabolicul! (Iată aici două fețe!)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 55: Cetatea și Informații agregate</title>
+				<link>http://localhost:1313/intruzive/posts/r061-cetatea-si-informa%C8%9Bii-agregate/</link>
+				<pubDate>Fri, 03 Jan 2025 13:50:26 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r061-cetatea-si-informa%C8%9Bii-agregate/</guid>
+				<description>&lt;p&gt;Cum de statul este copleșit de noi provocări sociale? Adică au trecut decenii de când a apărut ceea ce numim viață digitală. Oare nu cumva clasa politică este formată din oameni care, pe nedrept, sunt numiți elita societății?&lt;/p&gt;&#xA;&lt;p&gt;Nu cumva ne batem joc de filosofia platoniană, care zice că o cetate trebuie condusă de oameni inteligenți? Într-adevăr, în opinia mea, nu poți cere fiecărui politician să fie filosof. Dar, totuși, nu avem dreptul să facem abstracție în totalitate de ideea de bază exprimată de filosoful adus în discuție.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 54: Dincolo de Condiție</title>
+				<link>http://localhost:1313/intruzive/posts/r060-dincolo-de-conditie/</link>
+				<pubDate>Thu, 26 Dec 2024 12:58:14 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r060-dincolo-de-conditie/</guid>
+				<description>&lt;p&gt;În ceea ce privește ideea de condiție umană&amp;hellip; a fi conștient de faptul că te-ai născut într-o societate trecută sau chiar în proces de dezvoltare, comparativ vorbind, cu țările occidentale sau cu cele mult mai la vest (de peste ocean) față de Europa, înseamnă a admite și a-ți asuma, în mod individual, ideea subdezvoltării țării din care provii.&lt;/p&gt;&#xA;&lt;p&gt;Teama mea cea mai mare cu privire la acest discurs este faptul că sunt înclinat să apelez la preconcepții. De ce? Pentru că locul în care te-ai născut nu te definește în niciun caz ca persoană, care este expusă etichetelor puse de societatea în care (în sânul căreia) ai ales să îți câștigi existența sau, mai mult, de familia ta.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 53: Excepție: Reflexie de fond (dedublare)</title>
+				<link>http://localhost:1313/intruzive/posts/r059-exceptie-reflexie-de-fond/</link>
+				<pubDate>Thu, 19 Dec 2024 02:25:36 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r059-exceptie-reflexie-de-fond/</guid>
+				<description>&lt;p&gt;Oare suferința spirituală și psihologică, sau cea care se intersectează cu suferința filosofică, te împinge în mod factual la substanțializarea și exteriorizarea excesiv materialistă în sfera alterității substanțiale? Altfel spus: acceptarea suferinței interioare te propulsează în sfera acțiunii? Altfel spus: ai nevoie să te automutilezi cu scopul de a te regăsi în suferința trecutului?&lt;/p&gt;&#xA;&lt;p&gt;Cât de mult aș vrea să îmi expun aceste suferințe lumii. Să urlu cu miliarde de voci revolta mea față de suferință! Despre asta este ceea ce scriu. Pentru că ai dreptul să exiști, te voi blama prin singurul instrument pe care îl am la îndemână. Este reziliența! Nu acceptare! Ci deschiderea mea față de provocarea pe care mi‑ai dat‑o: anume să lupt împotriva ta!Fizic pot lupta prin suferințe banale. Și care sunt acestea? Însuși faptul că aleg acțiuni care, simbolic, ar expune poziția mea răzvrătită față de tine (conceptual și abstract vorbind) ar putea să îmi ofere o împăcare compromisuală cu tine.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 52: prin &#34;Altul&#34;</title>
+				<link>http://localhost:1313/intruzive/posts/r058-prin-altul/</link>
+				<pubDate>Sun, 15 Dec 2024 02:21:39 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r058-prin-altul/</guid>
+				<description>&lt;p&gt;Însăși interioritatea simțită de om îl face să apeleze la o entitate (pentru că are nevoie de o persoană) pentru rezolvarea problemelor cu care se confruntă. Însuși faptul că apelează la acest meșteșug îl plasează pe om într‑un spectru destul de vulnerabil. Cum poate ca o vulnerabilitate existențialistă să își găsească un răspuns în ideea găsirii unei salvări de la o persoană?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 51: Asupra Egalităților Ontologice</title>
+				<link>http://localhost:1313/intruzive/posts/r057-asupra-egalitatilor-ontologice/</link>
+				<pubDate>Sun, 01 Dec 2024 13:41:00 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r057-asupra-egalitatilor-ontologice/</guid>
+				<description>&lt;p&gt;Cum să îți reproșezi ție însuți faptul că, sub cerul liber (nu știu dacă pentru acea persoană este în acord cu ceea ce privește traiul descris de sintagma „acoperiș sub cerul liber”), încă nu mai există cineva care ar intra în convorbiri cu tine? Este o remarcă făcută, într‑adevăr pertinentă, cu privire la deschiderea omului de rând față de Omul de stradă, care este în acord cu ceea ce privește simpatizarea față de condiția omului ce își câștigă (în mod neimaginabil) existența.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 49: Dincolo de Întâmplare</title>
+				<link>http://localhost:1313/intruzive/posts/r055-dincolo-de-intamplare/</link>
+				<pubDate>Mon, 25 Nov 2024 13:33:52 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r055-dincolo-de-intamplare/</guid>
+				<description>&lt;p&gt;Există ceva pe care aș vrea să-l definesc într-un singur termen. Are legătură cu haosul și hedonismul (însăși existența ne dă dreptul să fim hedoniști – deși nu sunt de acord cu această concepție a plăcerii). Probabil că această anarhie (termenul căutat se apropie de această noțiune) înglobează atât necesarul, cât și excesul. Putem discuta despre aceste două noțiuni atât în materie de fizică, cât și în cea de trăire. Trăirea unei plenitudini, dar și trăirea nesublimului. Ce este aceasta? De ce cele două imagini se regăsesc atât în ideea de Dumnezeu sau etic/moral, cât și în ideea materialistă a universului? Este domeniul în care și la ora actuală gândirea umană se află într-un continuu dezacord. Nu reușește nici în secolul meu să găsească un răspuns la această problemă pentru care caut un termen, chiar dacă apelează la spiritual (religii și sincretisme, pentru că vorbesc despre trăiri autentice) și realitatea imediată ne-empirică (știință și percepție – domeniul somatic).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 48: Paria</title>
+				<link>http://localhost:1313/intruzive/posts/r054-paria/</link>
+				<pubDate>Sat, 23 Nov 2024 09:40:14 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r054-paria/</guid>
+				<description>&lt;p&gt;Este penibilul ce ține de prostia (căutării refugiilor vicioase) în virtutea căreia mulți devin paria societății.&lt;/p&gt;&#xA;&lt;p&gt;Un om plin de eșecuri nu e un paria. Cel ce se plasează mai jos de eșecuri devine paria.&lt;/p&gt;&#xA;&lt;p&gt;De menționat aici este faptul că termenul de „paria” este folosit doar ca o metaforă.&lt;/p&gt;&#xA;&lt;p&gt;E un paria mai jos decât paria.&lt;/p&gt;&#xA;&lt;p&gt;Chiar și în acest caz, omul în cauză nu trebuie să își piardă, pentru societate, relevanța sa în virtutea ideii că este născut și are drepturi de care societatea trebuie să se mândrească.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 50: Capătul Rațiunii</title>
+				<link>http://localhost:1313/intruzive/posts/r056-capatul-ratiunii/</link>
+				<pubDate>Mon, 18 Nov 2024 13:37:29 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r056-capatul-ratiunii/</guid>
+				<description>&lt;p&gt;Oricât aș fi bun sau rău, tot ipocrit sunt. Termenii de ipocrizie sau opusul acesteia trebuie excluși. Acum îmbrățișez discursul lui Nietzsche, care precomandă regândirea sistemului moral în totalitate. Eu zic că e imposibil doar în cazul în care omul ajunge să nu mai trebuiască să fie guvernat de acest sistem de gândire și, respectiv, de vreunul înrudit în imediata vecinătate sau îndepărtata vecinătate.&lt;/p&gt;&#xA;&lt;p&gt;Omul ideal este cel al non-eticii sau non-moralei (un aetic și amoralist). Omul aetic, dar mai mult decât etic. Există o vorbă: „mai papă decât papa de la Roma”. Nu vorbesc despre extreme. De fapt, vorbesc despre eliminarea extremelor și antonimul acestui termen. Pare o nebuloasă. Pare un neant. De ce are nevoie omul să pună ceva în loc?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 47: Alcoolul și Iraționalul</title>
+				<link>http://localhost:1313/intruzive/posts/r053-alcoolul-si-irationalul/</link>
+				<pubDate>Tue, 12 Nov 2024 09:28:01 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r053-alcoolul-si-irationalul/</guid>
+				<description>&lt;p&gt;Alcoolul este ceea ce te ajută — deși nu încape în discuție faptul că ar exista și alte soluții — să începi un capitol pe care năzuiești puternic să îl deschizi. Consideri că acest capitol îți dă oportunitatea de a te cunoaște și de a cunoaște lumea din jur.&lt;/p&gt;&#xA;&lt;p&gt;Teama și frica inoculate în copilărie cu privire la îndeplinirea unor responsabilități — nici după adolescență nu am reușit să înțeleg ce înseamnă responsabilitatea — în pofida faptului că părinții mei mi-au repetat în nenumărate rânduri faptul că trebuie să fiu responsabil, drept dovadă este faptul că am adus în discuție, în momentul de față, acest subiect.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 46: Răsturnarea Valorilor</title>
+				<link>http://localhost:1313/intruzive/posts/r052-rasturnarea-valorilor/</link>
+				<pubDate>Fri, 01 Nov 2024 09:18:20 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r052-rasturnarea-valorilor/</guid>
+				<description>&lt;p&gt;Un copil căruia i se vorbește despre Dumnezeu ca proniator și atotbun, văzând extremele încercări cu care se confruntă familia sa — de exemplu, schimbarea regimului — devine un veritabil oponent chiar și al ideii de Dumnezeu sau, întrutotul, răzvrătit față de Demiurg.&lt;/p&gt;&#xA;&lt;p&gt;Deci punem în discuție valoarea morală, virtutea credinței.&lt;/p&gt;&#xA;&lt;p&gt;Însăși înrădăcinarea ideii că, prin credință, treci prin necazuri și primești ajutor de la Dumnezeu crește șansa ca realitatea să răstoarne întregul sistem de valori care are legătură cu ideea de Dumnezeu.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 051: Pluriculturalismul</title>
+				<link>http://localhost:1313/intruzive/posts/r051-pluriculturalismul/</link>
+				<pubDate>Wed, 30 Oct 2024 02:37:44 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r051-pluriculturalismul/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Altă reflecție — despre cultură și pluriculturalism&lt;/strong&gt;&#xA;&lt;em&gt;(dau ca exemplu, cel mai probabil, un fake news)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;În descoperirile arheologice se pot observa obiecte istorice aparținând unor culturi specifice unor ținuturi îndepărtate, fie ele chiar și în imediata vecinătate a țării în cauză.&lt;/p&gt;&#xA;&lt;p&gt;În prima instanță, am putea argumenta prezența mai multor culturi pe același teritoriu. Simultaneitatea sau, dimpotrivă, caracterul succesiv al acestor evenimente — existența diferitelor culturi, în parte — poate fi pusă în discuție dacă se observă lipsa inscripțiilor de orice natură, rămânând astfel varianta apelării la metoda datării cu carbon sau la alte tehnologii înrudite.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 050: Clasele Sociale și Tehnologia</title>
+				<link>http://localhost:1313/intruzive/posts/r050-clase-sociale-si-tehnologia/</link>
+				<pubDate>Sun, 27 Oct 2024 06:31:53 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r050-clase-sociale-si-tehnologia/</guid>
+				<description>&lt;p&gt;Cum poate fi instrumentalizată, transformată în instrument, inteligența artificială pentru societate, în lupta sa împotriva diferențelor de clasă?&lt;/p&gt;&#xA;&lt;p&gt;Cum de acești magnați ai tehnologiilor nu visează să transforme câmpuri întregi, lipsite de apă și locuite de oameni, în unele mai prietenoase și primitoare, cu ajutorul tehnologiei cu care se laudă?&lt;/p&gt;&#xA;&lt;p&gt;Asta înseamnă a fi profet?&lt;/p&gt;&#xA;&lt;p&gt;Să nu ai răspunsurile la aceste întrebări și la multe altele?&lt;/p&gt;&#xA;&lt;p&gt;Să fie oare ignoranță?&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 43: Educație pentru Viitor</title>
+				<link>http://localhost:1313/intruzive/posts/r049-educatie-pentru-viitor/</link>
+				<pubDate>Tue, 22 Oct 2024 03:10:22 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r049-educatie-pentru-viitor/</guid>
+				<description>&lt;p&gt;pariția atât de frecventă a unor știri de această natură în ultimul deceniu a devenit extrem de apăsătoare. De parcă astfel de oameni fac parte dintr-un alt cerc, dintr-un alt grup.&lt;/p&gt;&#xA;&lt;p&gt;Ce morală ne transmite un profet al tehnologiilor? Despre ce frică este vorba? Se naște oare o nouă religie?&lt;/p&gt;&#xA;&lt;p&gt;La cât de multă repulsie simte omul față de sine și față de existența sa, nu m-ar mira dacă va ajunge la stadiul de a angaja acest nou instrument, în accepțiunea altora agent, creat cu mâna lui, împotriva sa.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 42: Omenirea și fractura Tehnologică</title>
+				<link>http://localhost:1313/intruzive/posts/r048-omenirea-si-fractura-tehnologica/</link>
+				<pubDate>Thu, 17 Oct 2024 02:43:50 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r048-omenirea-si-fractura-tehnologica/</guid>
+				<description>&lt;p&gt;Se pare că există deja încă o ruptură, una nouă, la nivelul civilizațiilor aflate la oricare nivel de dezvoltare. Este o ruptură care a căpătat formă. Marii magnați ai deceniilor tehnologice au început să își expună propriile viziuni cu privire la viitorul omenirii.&lt;/p&gt;&#xA;&lt;p&gt;Inițial, nu am luat în considerare acest aspect. Aceasta doar pentru simplul fapt că intenția lor ar putea fi bună. Sau oare ei sunt atât de visători încât reușesc să îmbine ficțiunea din cărți sau din creațiile cinematografice cu realitatea imediată? Să fie vorba despre ignoranță față de societate?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 42: Circumferințe ale Alter-Ego-ului</title>
+				<link>http://localhost:1313/intruzive/posts/r047-circumferinte-ale-alter-ego-ului/</link>
+				<pubDate>Fri, 11 Oct 2024 03:43:53 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r047-circumferinte-ale-alter-ego-ului/</guid>
+				<description>&lt;p&gt;Cât privește transcenderea condiției sociale a omului, ce ființează existența în care a fost aruncat, aici problema soartei și a ignoranței se mută asupra felului în care omul, ca ființă socială, se raportează la ceilalți și, prin aceasta, la propriul său alter-ego.&lt;/p&gt;&#xA;&lt;p&gt;Este ciudat faptul că, deși sunt sociale, ele au tendința de izolație. Acest izolaționism, manifestat atât individual, cât și la nivelul grupurilor, îi încătușează. Îi face să creadă că iluzia este adevărul.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 41: Soarta și Peștera lui Platon</title>
+				<link>http://localhost:1313/intruzive/posts/r046-soarta-%C8%99i-pestera-lui-platon/</link>
+				<pubDate>Fri, 04 Oct 2024 03:19:11 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r046-soarta-%C8%99i-pestera-lui-platon/</guid>
+				<description>&lt;p&gt;Aceste multe contexte care formează condiția umană se pare că au legătură cu soarta omului. La naștere, omul nu o poate transcende, astfel neavând oportunitatea de a alege unde să se nască.&lt;/p&gt;&#xA;&lt;p&gt;Dar, pentru că putem vorbi atât despre depășirea condiției umane, cât și despre a avea puterea de a-și schimba soarta prin luarea unor decizii importante, potrivite sau total greșite pentru el, deși pentru cei din jurul său bune, ar trebui să ne punem întrebarea: nu cumva această ființă poate dejuca planul destinului?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 045: Ibidem</title>
+				<link>http://localhost:1313/intruzive/posts/r045-ibidem/</link>
+				<pubDate>Mon, 30 Sep 2024 03:19:12 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r045-ibidem/</guid>
 				<description>&lt;p&gt;Eu sunt rău în acest context. De ce? Pentru că reacția mea avută în aceleași contexte a avut ca rezultat negativ pentru eul meu sau, chiar mai mult decât atât, apelarea la reziliență (pentru că nu reziliența ar trebui să fie soluția la însănătoșire, de exemplu) și experiența sentimentului inferiorității față de ceea ce mișcă trupul meu și se numește viață trupească.&lt;/p&gt;&#xA;&lt;p&gt;În sensul celor zise mai sus, continui și zic faptul că, mici fiind, a fost de acord să fim pregătiți pentru încă un nou episod al experimentării infirmității față de ceea ce e mai presus de putința noastră (a putea/a avea putere asupra a ceea ce ne înconjoară, simțim și gândim).&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>R. 39: Esența între Bine și Rău</title>
-				<link>http://localhost:1313/intruzive/posts/r39-esenta-intre-bine-si-rau/</link>
-				<pubDate>Tue, 22 Apr 2025 02:49:41 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r39-esenta-intre-bine-si-rau/</guid>
+				<title>R. 044: Esența între Bine și Rău</title>
+				<link>http://localhost:1313/intruzive/posts/r044-esenta-intre-bine-si-rau/</link>
+				<pubDate>Mon, 23 Sep 2024 02:49:41 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r044-esenta-intre-bine-si-rau/</guid>
 				<description>&lt;p&gt;A simți că cineva este rău în tot ceea ce face este ușor. Dar ce înseamnă cu adevărat a fi rău sau bun? Oamenii buni sunt buni atunci când se simt vulnerabili? Și ce înseamnă această vulnerabilitate? Oamenii răi sunt vulnerabili și fac rău atunci când se simt vulnerabili?&lt;/p&gt;&#xA;&lt;p&gt;Dacă cele două puncte de vedere expuse aici sunt valide, înseamnă că omul este bun prin esență sau rău prin esență. Cred în ipoteza că un om poate fi și rău, dar și bun, în diferitele contexte. Cred că doar contextul îi dă voie omului să fie bun sau rău. Numai că modul de a reacționa este influențat, eminamente și fără niciun fel de dubiu, de ceea ce s-a înscris prin trăire și prin clipă pe hardul personalității (K. G. Jung).&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>R. 38: Ideologii și Fapte</title>
-				<link>http://localhost:1313/intruzive/posts/r38-ideologii-si-fapte/</link>
-				<pubDate>Tue, 15 Apr 2025 02:25:12 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r38-ideologii-si-fapte/</guid>
+				<title>R. 043: Ideologii și Fapte</title>
+				<link>http://localhost:1313/intruzive/posts/r043-ideologii-si-fapte/</link>
+				<pubDate>Sat, 21 Sep 2024 02:25:12 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r043-ideologii-si-fapte/</guid>
 				<description>&lt;p&gt;Cred că am înțeles o parte din procesul de falsificare a istoriei.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Începi cu starea de fapt a evenimentelor istorice cunoscute în unanimitate de către auditoriu sau cititor.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Apoi se observă importanța apelării la caracterul îndepărtat al evenimentului. Adică nu începi cu evenimentul în jurul căruia gravitează dezbaterea în sine, ci începi cu ceea ce îi dă auditoriului sau cititorului convingerea că discursul tău se plasează la rădăcina problemei istorice discutate.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 37: Instinct și Univers</title>
-				<link>http://localhost:1313/intruzive/posts/r37-instinct-si-univers/</link>
-				<pubDate>Mon, 07 Apr 2025 01:59:48 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r37-instinct-si-univers/</guid>
+				<link>http://localhost:1313/intruzive/posts/r042-instinct-si-univers/</link>
+				<pubDate>Thu, 12 Sep 2024 01:59:48 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r042-instinct-si-univers/</guid>
 				<description>&lt;p&gt;Ce este cu instinctul de supraviețuire care ca o hibă își face prezența în tot ce înseamnă viață? Este obsesia vechilor gânditori. Ei au transformato în temelia gândirii pe care s-a construit toată filosofia de la început până acum. Ne luptăm să fim auziți de Univers încercând sa supraviețuim. El (instinctul) este ca un fum care se dispersă în neant. El (universul) este acea tăcere apăsătoare. Este acel plumb care ne acompaniază/ însoțește/ este prezent chiar și după moarte. Acest „chiar și după moarte” marcat de prezența metalului greu, metaforic vorbind, ne arată lipsa de sens a vieții pământești. Aici aduc în discuție sentimentul despre al cărei importanță vorbește într-un mod obscen de exagerat toată lumea. Moartea însăși desparte prietenii legate de societate prin termenul de „căsătorie”. Permiteți-mi sa-mi derog dreptul de a numi acest comportament că fiind unul „inocent” și eminamente copilăros. Te juri avându-L pe Dumnezeu martor legăturilor tale? Dar ce înseamnă pentru cel de lângă tine „Dumnezeu”? Pentru el mai important este a supraviețui decât puterea cuvântului.  &lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>R. 36: Pașii Lui în Umanitate</title>
-				<link>http://localhost:1313/intruzive/posts/r36-pasii-lui-in-umanitate/</link>
-				<pubDate>Sun, 30 Mar 2025 15:44:16 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r36-pasii-lui-in-umanitate/</guid>
+				<title>R. 041: Pașii Lui în Umanitate</title>
+				<link>http://localhost:1313/intruzive/posts/r041-pasii-lui-in-umanitate/</link>
+				<pubDate>Sat, 07 Sep 2024 15:44:16 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r041-pasii-lui-in-umanitate/</guid>
 				<description>&lt;p&gt;Îmi e teamă să mai zic ceva despre umanitate. Îmi e teamă ca ceea ce voi scrie să nu-mi nutrească sentimente mult mai adânci față de natura acesteia.&lt;/p&gt;&#xA;&lt;p&gt;S-a vorbit, și încă se mai vorbește, despre „pașii lui Dumnezeu în istoria umanității”. Ar fi trebuit să putem vorbi cu mai multă lejeritate și despre „pașii lui Dumnezeu în umanitate”.&lt;/p&gt;&#xA;&lt;p&gt;Suntem pierduți!!! Dar trebuie să fie o lumină la capătul tunelului! Niciun protest sau o opoziție nu poate atinge ceea ce este prezent și ceea ce va fi!!!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 35: Tirania Idealurilor</title>
-				<link>http://localhost:1313/intruzive/posts/r35-tirania-idealurilor/</link>
-				<pubDate>Sun, 23 Mar 2025 14:03:35 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r35-tirania-idealurilor/</guid>
+				<link>http://localhost:1313/intruzive/posts/r040-tirania-idealurilor/</link>
+				<pubDate>Tue, 03 Sep 2024 14:03:35 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r040-tirania-idealurilor/</guid>
 				<description>&lt;p&gt;Nici acțiunea și nici pasivitatea nu își mai găsesc substanța, anume materializarea celor de care am nevoie din punct de vedere ființial.&lt;/p&gt;&#xA;&lt;p&gt;De ce rațiunea are nevoie de imagini? Probabil că aversiunea pe care o simt față de simbolism se datorează luptei mele anterioare împotriva „ismelor” care nu își găsesc sensul în apropiata realitate. Adică omul se luptă pentru aceste „isme”, devenind un criminal al umanității.&lt;/p&gt;&#xA;&lt;p&gt;Da! Prin ele suntem împotriva esenței noastre care ne definește. Aceste imagini au ucis o generație de zeci de miliarde de oameni. Și nu suntem încă conștienți de acest aspect.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 34: Dincolo de Dualitate</title>
-				<link>http://localhost:1313/intruzive/posts/r34-dincolo-de-dualitate/</link>
-				<pubDate>Sat, 15 Mar 2025 13:27:09 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r34-dincolo-de-dualitate/</guid>
+				<link>http://localhost:1313/intruzive/posts/r039-dincolo-de-dualitate/</link>
+				<pubDate>Wed, 28 Aug 2024 13:27:09 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r039-dincolo-de-dualitate/</guid>
 				<description>&lt;p&gt;Nu trebuie să vorbim despre dualitate. Nu cred în dualitate. Ceea ce este mai mult decât dual este luat ca ceva ciudat. Nu este! Este echilibrul! Acest „mai mult” este al treilea. Adică mijlocul.&lt;/p&gt;&#xA;&lt;p&gt;Este fascinant cum poți fi nici viciat, nici strict neviciat. Acest „neviciat” a devenit relativizat, ca în cazul termenilor „adevăr” și „iubire”. Adică ne luptăm fără noimă între exigențe și indulgențe (simplificat vorbind), încercând să jonglăm cu ideile.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 33: Vulnerabilitate și Coruptibilitate</title>
-				<link>http://localhost:1313/intruzive/posts/r33-vulnerabilitate-si-coruptibilitate/</link>
-				<pubDate>Thu, 06 Mar 2025 06:14:48 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r33-vulnerabilitate-si-coruptibilitate/</guid>
+				<link>http://localhost:1313/intruzive/posts/r038-vulnerabilitate-si-coruptibilitate/</link>
+				<pubDate>Fri, 23 Aug 2024 06:14:48 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r038-vulnerabilitate-si-coruptibilitate/</guid>
 				<description>&lt;p&gt;Bețivul bea să-și înece supărarea că este bețiv. Adică, conștientizarea vulnerabilității îl face să se afunde într-un adânc fără sfârșit și deplorabil de infinit. Sintagma care arată excesul de prostie trăită de un om viciat este: „Bețivul bea pentru că e supărat că e bețiv.”&lt;/p&gt;&#xA;&lt;p&gt;Vulnerabilitatea îl face coruptibil. Adică băutura, în cazul de față, îl corupe — ce-i drept, doar în măsura în care acest viciu prinde contur în contextul situațiilor în care evenimentele experimentate, scoase din sistemul propriu de raționalizare, devin împovărătoare, lăsând astfel ferestre de concesie oponentului sistemului etic și moral format în copilărie.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 32: Sensul Pierdut</title>
-				<link>http://localhost:1313/intruzive/posts/r32-sensul-pierdut/</link>
-				<pubDate>Sat, 01 Mar 2025 05:48:57 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r32-sensul-pierdut/</guid>
+				<link>http://localhost:1313/intruzive/posts/r037-sensul-pierdut/</link>
+				<pubDate>Wed, 21 Aug 2024 05:48:57 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r037-sensul-pierdut/</guid>
 				<description>&lt;p&gt;Mulți folosesc tocmai această constatare pentru a promova un spirit epicurian în viața cotidiană. Dacă nu mă înșel, Epicur este printre puținii care au oferit un răspuns direct cu privire la modul în care omul ar trebui să-și trăiască existența cotidiană, pornind de la câteva principii directoare. Ceea ce mi se pare, într-un anumit sens, prea cinic. Și nu intenționez aici să vorbesc despre cinism.&lt;/p&gt;&#xA;&lt;p&gt;Întrebarea rămâne, însă: cum putem scăpa de acest „măr” care a provocat privarea — desprinderea omului — de experiența eternă a Edenului?&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 31: Fructul Interzis - Ratiunea</title>
-				<link>http://localhost:1313/intruzive/posts/r31-fructul-interzis---ratiunea/</link>
-				<pubDate>Tue, 25 Feb 2025 05:45:24 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r31-fructul-interzis---ratiunea/</guid>
+				<link>http://localhost:1313/intruzive/posts/r036-fructul-interzis---ratiunea/</link>
+				<pubDate>Wed, 14 Aug 2024 05:45:24 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r036-fructul-interzis---ratiunea/</guid>
 				<description>&lt;p&gt;Cu privire la categoriile criticii moralei lui Kant, pot spune că nici acestea nu rezolvă problema înțelegerii transcendentale a lucrurilor. De fapt, nu cred că acesta era scopul lui Kant. Însă faptul că, în cele din urmă, rămânem cu un semn de întrebare mă face să cred — și, în acest sens, să întăresc convingerea unor scriitori — că rațiunea este acel „măr” despre care ne vorbește Facerea/Geneza, mitul iudaic al începutului umanității.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 30: Estetica și Etica</title>
-				<link>http://localhost:1313/intruzive/posts/r30-estetica-si-etica/</link>
-				<pubDate>Tue, 18 Feb 2025 11:35:24 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r30-estetica-si-etica/</guid>
+				<link>http://localhost:1313/intruzive/posts/r035-estetica-si-etica/</link>
+				<pubDate>Sat, 03 Aug 2024 11:35:24 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r035-estetica-si-etica/</guid>
 				<description>&lt;p&gt;Mă uimește felul în care rațiunea, caracteristică omului, nu poate să găsească un liant între ea și substratul empiric personal. Dacă avem liberul arbitru, de ce nu putem cunoaște viitorul? El ar trebui să îmi dea dreptul, mie ca umanitate, să aleg cum vreau să arate viitorul copilului meu ajuns la bătrânețe. Ce să mai vorbim despre mai mult decât atât? Reflexia asta chiar mă face să fiu destul de repulsiv față de acei oameni care garantează fericirea sau ieșirea din matca dictată de viața cotidiană.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 29: Ambivalențe</title>
-				<link>http://localhost:1313/intruzive/posts/r29-ambivalente/</link>
-				<pubDate>Thu, 13 Feb 2025 11:33:13 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r29-ambivalente/</guid>
+				<link>http://localhost:1313/intruzive/posts/r034-ambivalente/</link>
+				<pubDate>Sat, 27 Jul 2024 11:33:13 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r034-ambivalente/</guid>
 				<description>&lt;p&gt;Azi suntem martorii unei științe estetice (vezi estetica teoriilor de combinare a fizicii relativității și cea cuantică, cea din urmă părând a pierde teren în favoarea ideilor ce construiesc noua știință post‑modernistă sau, altfel spus, ciber‑umanistă — a se vedea caracterul optimist al construcției semantice în contextul frazei). În cel mai dezagreabil scenariu, se va ajunge la două extreme caracterizate de repulsie sau acceptare accentuate, în fiecare caz categoric opuse și deterministe în același timp.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 28: Contrapuneri</title>
-				<link>http://localhost:1313/intruzive/posts/r28-contrapuneri/</link>
-				<pubDate>Sun, 09 Feb 2025 10:08:27 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r28-contrapuneri/</guid>
+				<link>http://localhost:1313/intruzive/posts/r033-contrapuneri/</link>
+				<pubDate>Thu, 18 Jul 2024 10:08:27 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r033-contrapuneri/</guid>
 				<description>&lt;p&gt;Orgoliul / ego-ul este un lucru nesimțit față de ceilalți, dacă e să îl analizăm în virtutea regulilor bunelor maniere, adică a legilor nescrise (dar mai nou exprimate și dureros experimentate de cei care formează societatea în mod independent, adică strict individual). Nu datorită egoului omului societatea nu se dezvoltă / nu evoluează. De fapt, el este cel care propulsează spre evoluție. Doar că bunele maniere, în zilele noastre, sunt puse la rang de legiuire. Legea dictează ceea ce este nesimțit sau contrariul. Totuși, cel dintâi, adică orgoliul, devine „simțit” (contrapunere) doar în sfera legii. Dar dacă această cartă nu ar mai exista, totul ar deveni „simțit” în loc de „nesimțit”.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 27: Amprenta Sacralității</title>
-				<link>http://localhost:1313/intruzive/posts/r27-sacralitatea/</link>
-				<pubDate>Sun, 02 Feb 2025 14:14:15 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r27-sacralitatea/</guid>
+				<link>http://localhost:1313/intruzive/posts/r032-sacralitatea/</link>
+				<pubDate>Sat, 13 Jul 2024 14:14:15 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r032-sacralitatea/</guid>
 				<description>&lt;p&gt;Templul te mai curățește pângărit fiind? Totuși, a fost templu!!&lt;/p&gt;&#xA;&lt;p&gt;Adică dacă lumina are putere, doar prin simpla ei prezență umilă, de a se impune în defavoarea non-prezenței ei (întunericul), ar trebui ca aceeași relație de cauză-efect să își facă simțită sau conștientizată și în cazul celor spuse mai sus.&lt;/p&gt;&#xA;&lt;p&gt;Am dat exemplul unui loc/spațiu care a fost afierosit sacrului. Nesacrul înseamnă lipsa sacrului. Însuși Omul, prin (în)evocarea sacrului, poate sfinți ceea ce e întinat.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 26: Violența Cunoașterii</title>
-				<link>http://localhost:1313/intruzive/posts/r26-violenta-cunoasterii/</link>
-				<pubDate>Sat, 25 Jan 2025 13:45:08 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r26-violenta-cunoasterii/</guid>
+				<link>http://localhost:1313/intruzive/posts/r031-violenta-cunoasterii/</link>
+				<pubDate>Mon, 01 Jul 2024 13:45:08 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r031-violenta-cunoasterii/</guid>
 				<description>&lt;p&gt;Nu prin observarea experiențelor (interne și externe) a ajuns omul la cunoaștere încă din zorii existenței sale? A afla noi informații presupune riscuri și insecurități — o formă de agresivitate care ia forma unui exil din confortul necunoașterii. Asta înseamnă însă că însăși nașterea cunoașterii cere o smulgere dureroasă din siguranță și că nu spun sub nicio formă că agresivitatea generează cunoaștere; o resping total și fără echivoc.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 25: Homo Aggressivus</title>
-				<link>http://localhost:1313/intruzive/posts/r25-homo-aggressivus/</link>
-				<pubDate>Tue, 21 Jan 2025 03:40:04 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r25-homo-aggressivus/</guid>
+				<link>http://localhost:1313/intruzive/posts/r030-homo-aggressivus/</link>
+				<pubDate>Sun, 30 Jun 2024 03:40:04 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r030-homo-aggressivus/</guid>
 				<description>&lt;p&gt;De ce agresivitatea este ceva ce atrage? Nu mă refer doar la cazuri în care aceasta nu are legătură cu sexul. Nu afirm aici că sexul este ceva care are în componență ceva din masochism. De aceea, probabil, sunt oameni care acceptă sau se regăsesc (din punct de vedere psiho-erotic) acolo, că viața erotică are și ea psihologia ei, demonstrat fiind faptul că există sexologi ca și consultanți în domeniul psihologic, specializați, făcând afirmații personale după propria lor interpretare. Astfel, există diferite poziționări în ceea ce privește acest subiect. Alți sexologi, probabil, sunt mult prea empirici decât ar trebui.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 24: Două Necunoscute</title>
-				<link>http://localhost:1313/intruzive/posts/r24-doua-necunoscute/</link>
-				<pubDate>Tue, 14 Jan 2025 18:07:42 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r24-doua-necunoscute/</guid>
+				<link>http://localhost:1313/intruzive/posts/r029-doua-necunoscute/</link>
+				<pubDate>Thu, 27 Jun 2024 18:07:42 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r029-doua-necunoscute/</guid>
 				<description>&lt;p&gt;Este ca într-un neant năucitor, aproape labirintic, să te gândești că o viitoare mamă, aflată pe patul de naștere, poate suferi un accident vascular cerebral și poate ajunge în starea pe care francezii o numesc sindromul omului zidit de viu. Nașterea, începutul unei vieți, poate sta astfel atât de aproape de posibilitatea morții sau a unei transformări ireversibile a celui care o aduce pe lume.&lt;/p&gt;&#xA;&lt;p&gt;Ce întelegem prin naștere și moarte? Nu putem cunoaște în întregime disponibilitatea unui corp pentru naștere și nici toate evenimentele care pot apărea în jurul ei. Și poate că tocmai această imposibilitate de a le cuprinde în întregime ne obligă să ne întoarcem către întrebarea mai mare: ce înseamnă să exiști între naștere și moarte?&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 23: Nevoia ca Test pentru Celălalt</title>
-				<link>http://localhost:1313/intruzive/posts/r23-nevoia-ca-test-pentru-celalalt/</link>
-				<pubDate>Thu, 09 Jan 2025 13:21:42 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r23-nevoia-ca-test-pentru-celalalt/</guid>
+				<link>http://localhost:1313/intruzive/posts/r028-nevoia-ca-test-pentru-celalalt/</link>
+				<pubDate>Fri, 21 Jun 2024 13:21:42 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r028-nevoia-ca-test-pentru-celalalt/</guid>
 				<description>&lt;p&gt;Două lucruri care au ceva în comun și nu pot înțelege ce anume. Doi oameni vorbesc doar prin mesaje. Vine un moment oarecare în care, datorită unor frustrări înmagazinate, probabil, încep să fie într-o așteptare. „Dacă îmi scrie el/ea primul/a, o să vorbim”, iar celălalt zice: „Să scrie el/ea primul/a”.&lt;/p&gt;&#xA;&lt;p&gt;Alt caz, mai complex acum. El o cucerește pe ea și invers. Apoi încep să caute atenție unul de la celălalt. Dar nu o cer. Ca în cazul de mai sus, unul așteaptă ca celălalt să spargă gheața din unele considerente ce țin de profilul lor psihologic. Fiecare așteaptă ceva de la celălalt, dar fără să spună ce așteaptă.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 22: Etichete</title>
-				<link>http://localhost:1313/intruzive/posts/r22-etichete/</link>
-				<pubDate>Wed, 01 Jan 2025 22:12:27 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r22-etichete/</guid>
+				<link>http://localhost:1313/intruzive/posts/r027-etichete/</link>
+				<pubDate>Tue, 18 Jun 2024 22:12:27 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r027-etichete/</guid>
 				<description>&lt;p&gt;Și aici nu propun o definiție individualistă. Teoretic răul este lipsa binelui. Bine nu este bunăstarea, deși cei doi termeni sunt extrem de dependenți unul față de celălalt. Dar bunăstarea include termenul de fericire. Însăși fericirea este un termen fără consistență.&lt;/p&gt;&#xA;&lt;p&gt;De ce să nu zicem că binele nu are treabă cu iubirea. Poate cel mai bun mod de a construi sensuri noi termenilor care să fie de sine stătători, iar nu interdependenți. Dar ajungem astfel să ne cenzurăm, am putea probabil zice ontologic, pe noi înșine (adică nu suntem obiecte).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 21: Piatra</title>
-				<link>http://localhost:1313/intruzive/posts/r21-piatra/</link>
-				<pubDate>Sun, 29 Dec 2024 21:37:25 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r21-piatra/</guid>
+				<link>http://localhost:1313/intruzive/posts/r026-piatra/</link>
+				<pubDate>Sat, 15 Jun 2024 21:37:25 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r026-piatra/</guid>
 				<description>&lt;p&gt;Dacă ai nevoie să fii confirmat de cei din jur, dar în același timp trebuie să fii salvatorul celorlalți, această nevoie nu poate fi satisfăcută pe deplin. Fără această satisfacție, omul este ca o piatră vorbitoare. Există însă o balanță: orice energie trebuie susținută din exterior. Nu cred că acest lucru îl face pe om coruptibil dacă este, într-adevăr, un om bun. De fapt, se corupe pe el însuși atunci când fapta bună nu primește nici măcar o răsplată psihologică.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 20: Dogmă și Bunătate</title>
-				<link>http://localhost:1313/intruzive/posts/r20-dogma-%C8%99i-bunatate/</link>
-				<pubDate>Wed, 04 Dec 2024 21:06:46 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r20-dogma-%C8%99i-bunatate/</guid>
+				<link>http://localhost:1313/intruzive/posts/r025-dogma-%C8%99i-bunatate/</link>
+				<pubDate>Tue, 11 Jun 2024 21:06:46 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r025-dogma-%C8%99i-bunatate/</guid>
 				<description>&lt;p&gt;Pornind de la critica lui Nietzsche, prima valoare morală demnă de a fi redefinită sau răsturnată este aceea a bunătății: a fi „băiatul bun” sau „fata bună”. Teoretic, a fi bun înseamnă să pui, în viața de familie și în cea socială, persoana ta pe al doilea loc. Ajungi să te comporți ca un Mesia autoproclamat, ca și cum ai fi fost însărcinat să rezolvi sau, mai bine zis, să anihilezi Răul din lume.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 19: Oglinda</title>
-				<link>http://localhost:1313/intruzive/posts/r19-oglinda/</link>
-				<pubDate>Fri, 29 Nov 2024 17:45:12 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r19-oglinda/</guid>
+				<link>http://localhost:1313/intruzive/posts/r024-oglinda/</link>
+				<pubDate>Tue, 04 Jun 2024 17:45:12 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r024-oglinda/</guid>
 				<description>&lt;p&gt;Se pare că ceea ce se credea a fi boală este efectul contextelor politice în care ceea ce avea poporul de spus nu corela niciodată cu conducerea statului. Și chiar în acest moment mă întreb dacă nu cumva această ultimă idee din propoziția de mai sus oglindește omul, care este constituția societății. Adică atât statul, cât și omul sunt tentați să refuleze idei și convingeri.&lt;/p&gt;&#xA;&lt;p&gt;Dar această refulare (adică respingerea din conștient a unor idei care rămân în inconștient) nu cumva este acel sistem limfatic al corpului depășit? Altfel spus, nu cumva umanitatea este într-o gripă? Nu cred că diversitatea trebuie să fie nimicită de anticorpii trupului societal.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 18: Celălt</title>
-				<link>http://localhost:1313/intruzive/posts/r18-celalt/</link>
-				<pubDate>Sat, 23 Nov 2024 17:27:40 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r18-celalt/</guid>
+				<link>http://localhost:1313/intruzive/posts/r023-celalt/</link>
+				<pubDate>Wed, 29 May 2024 17:27:40 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r023-celalt/</guid>
 				<description>&lt;p&gt;Am ajuns să mă conving de faptul că un rău este necesar pentru binele viitor. Am avut zilele acestea gândul că, dacă m-aș fi născut cu mai mult de două decenii în urmă, aș fi fost ferit de teama unui război. Mulți vorbesc despre cinci decenii, ocolind starea de fapt în virtutea unor argumente oarecum viabile despre perioada Războiului Rece, fiind influențați de o distanță temporală suficient de mare pentru a consola și pentru a face irelevant gândul unui război iminent. Urăsc când cifrele devin evaziv de irelevante pentru o realitate atât de brutală și irațională, în cazul unor conflicte născute din pretenții imperialiste sau federaliste.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 17: Evoluții și Stigme</title>
-				<link>http://localhost:1313/intruzive/posts/r17-evolutii-si-stigme/</link>
-				<pubDate>Tue, 12 Nov 2024 16:57:04 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r17-evolutii-si-stigme/</guid>
+				<link>http://localhost:1313/intruzive/posts/r022-evolutii-si-stigme/</link>
+				<pubDate>Fri, 17 May 2024 16:57:04 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r022-evolutii-si-stigme/</guid>
 				<description>&lt;p&gt;Sunt revoltat nu pe mine, ci mai degrabă pe condițiile prealabil determinate de caracterul geosociologic al contextului nașterii mele. Altfel spus, pe stigmatele unei societăți care nu a răspuns întotdeauna provocărilor timpului său și care ar trebui să răspundă pozitiv unei culturi mai avansate, păstrându-și, evident, identitatea și unicitatea firii sale. Revolta mea are drept obiect timpul și spațiul în care existența mea se manifestă. Contrar acestei idei, care nu trebuie însă trecută cu vederea, am convingerea că, pentru binele comun al umanității, era necesar să am o asemenea viață (existență).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 16: Identitate și Convenție</title>
-				<link>http://localhost:1313/intruzive/posts/r16-identitate-si-conventie/</link>
-				<pubDate>Sat, 02 Nov 2024 21:46:19 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r16-identitate-si-conventie/</guid>
+				<link>http://localhost:1313/intruzive/posts/r021-identitate-si-conventie/</link>
+				<pubDate>Tue, 14 May 2024 21:46:19 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r021-identitate-si-conventie/</guid>
 				<description>&lt;p&gt;Conform unor studii academice, se arată că un mers feminin presupune o undulare a șoldurilor în timpul deplasării sau repausului. Este un artificiu impus de preconcepțiile societății apărute, într-adevăr, încă din vechi timpuri. Este un artificiu care urmărește să accentueze un atu pe care anatomia l-a înzestrat femeii. De fapt, problema este una mult mai discretă. Așa cum corpurile bărbaților diferă în sensul îndeplinirii unor caracteristici idealizate, tot la fel se poate vorbi despre cele ale femeilor. Asta înseamnă oare că și bărbații trebuie să aplice aceste reguli ale poziției corpului în diferite situații? Și, da! Unii dintre ei exagerează. Același lucru și la femei. Să nu îmi zică nimeni că aceasta se datorează construcției sistemului locomotor cu care natura l-a înzestrat pe om de la naștere. Corect! Bărbații au oase mai dense. Sau sistemul muscular la ei se dezvoltă mai mult. Dar există excepții de care mulți au auzit sau văzut. Datorită acestor excepții nu putem vorbi despre justețea acestor stereotipuri. O femeie culturist nu este ceea ce spunem a fi imposibil. E un exemplu! Un lup nu e un lup pentru că este un câine (în cealaltă extremă putem vorbi despre „fox”, dau vulpe). Adică un om este om pentru că este și se comportă ca omul.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 15: Rodirea după Moarte</title>
-				<link>http://localhost:1313/intruzive/posts/r15-rodirea-dupa-moarte/</link>
-				<pubDate>Fri, 25 Oct 2024 19:25:32 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r15-rodirea-dupa-moarte/</guid>
+				<link>http://localhost:1313/intruzive/posts/r020-rodirea-dupa-moarte/</link>
+				<pubDate>Fri, 10 May 2024 19:25:32 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r020-rodirea-dupa-moarte/</guid>
 				<description>&lt;p&gt;Drumul spre rezultatele avute în urma succesului poate fi asemuit cu nașterea unui prunc. Adică mulți te întreabă cu privire la cum ai reușit să ajungi la acest succes. Se pare că cel mai bun răspuns este acela în care aduci aminte de chinurile prin care o femeie trece în timpul nașterii. Și hai să dezvoltăm. Sarcina este acest drum sau stadiu care duce spre aducerea în lume a unui copil. În domeniul nutriției, ca exemplu îndepărtat, îți înfrânezi poftele sau chiar să nu dai importanță senzației de nesațietate. În domeniul antreprenoriatului îți accesezi destul de multe resurse, ducând chiar și la o epuizare accentuată a acestora, pentru a pune în picioare o afacere durabilă sau, mai bine zis, pentru a pune o idee în aplicare, dar care să fie fructificată ani întregi, chiar și după ce mori. E ca un copil ieșit din tine: ceva care continuă să rodească și după ce tu nu mai ești.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 14: Non-existența?</title>
-				<link>http://localhost:1313/intruzive/posts/r14-nonexistenta/</link>
-				<pubDate>Fri, 11 Oct 2024 09:34:05 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r14-nonexistenta/</guid>
+				<link>http://localhost:1313/intruzive/posts/r019-nonexistenta/</link>
+				<pubDate>Fri, 03 May 2024 09:34:05 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r019-nonexistenta/</guid>
 				<description>&lt;p&gt;Însăși ființa umană este cuprinsă de disperare. Unii oameni o acceptă (cerșetorii), dar alții duc o luptă fără sfârșit. Este urletul celor care încă cred în depășirea condițiilor de existență (nu doar de trai, pentru că aici vorbesc de ființare). Mai concret, pot aduce aici în discuție problema viitorului, viitor în care însăși existența nu mi-o pot imagina drept non-existență. Religia dă un răspuns oarecum pertinent, dar eșuează grav în ceea ce privește detaliile (nu mă refer la dovezi, pentru că aceste dovezi sunt contra-argumentate de coincidențe). Această eșuare se datorează încercării de a simplifica aproape totul. Reduce răspunsul la o singură rezolvare, banalizând astfel multitudinea aspectelor prin abstractizarea lor. Vorbesc aici, spre exemplu, despre realitatea psihosomatică a celuilalt, realitate care nu poate fi redusă la propria noastră experiență, dar și despre lumea însăși, care nu se rezumă la om.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 13: Voința dincolo de Conștiință</title>
-				<link>http://localhost:1313/intruzive/posts/r13-vointa-dincolo-de-constiinta/</link>
-				<pubDate>Sat, 21 Sep 2024 09:13:18 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r13-vointa-dincolo-de-constiinta/</guid>
+				<link>http://localhost:1313/intruzive/posts/r018-vointa-dincolo-de-constiinta/</link>
+				<pubDate>Sun, 21 Apr 2024 09:13:18 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r018-vointa-dincolo-de-constiinta/</guid>
 				<description>&lt;p&gt;Oare este morală problematica pe care vreau să o lansez în momentul de față? Deci, doi prieteni vorbesc la telefon. Unul dintre ei este băut, fapt de care celălalt își dă seama ulterior, în urma unui apel telefonic efectuat de primul. Discuția lor se pare că a început acum 5 minute, timp în care interlocutorul apelului, văzând felul de exprimare și claritatea vorbirii, își dă seama că exprimarea primului lasă de dorit, mai ales după greutatea cu care sunt articulate cuvintele (termenii) în timpul acestei convorbiri. Interlocutorul, din ceea ce mi-a dat de înțeles după vorbele inițiatorului discuției telefonice, îl considera deja băut (adică a băut patru beri – băutură alcoolică produsă prin fermentație și diluată astfel încât 500 ml să aibă 5 procente de alcool). Inițiatorul discuției (fapt cunoscut/dedus în mod empiric) era categoric beat.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 12: Identitate și Experiență</title>
-				<link>http://localhost:1313/intruzive/posts/r12-identitate-si-experienta/</link>
-				<pubDate>Fri, 20 Sep 2024 01:09:31 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r12-identitate-si-experienta/</guid>
+				<link>http://localhost:1313/intruzive/posts/r017-identitate-si-experienta/</link>
+				<pubDate>Sat, 20 Apr 2024 01:09:31 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r017-identitate-si-experienta/</guid>
 				<description>&lt;p&gt;Cu privire la cele citite din Jung&lt;/p&gt;&#xA;&lt;p&gt;Identificarea cu mama: există o asemănare și în cazul unor bărbați homosexuali, în sensul că anima, de obicei discretă în interiorul persoanei, devine mai conștientizată și iese la suprafață, contribuind la formarea unei personalități distincte. Dar am o obiecție: această identificare poate fi declanșată și prin repetarea faptelor specifice acestui complex, având în vedere teoriile neuroplasticității. L-am putea numi un complex artificial, format prin repetarea unor acțiuni care se sedimentează peste ceea ce omul a devenit până în acel moment. Experiența nu face omul. Doar îl transformă. Omul alege ce îl transformă, cât și în ce măsură, definindu-se astfel pe sine.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 11: Jertfa</title>
-				<link>http://localhost:1313/intruzive/posts/r11-jertfa/</link>
-				<pubDate>Tue, 03 Sep 2024 16:04:03 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r11-jertfa/</guid>
+				<link>http://localhost:1313/intruzive/posts/r016-jertfa/</link>
+				<pubDate>Wed, 03 Apr 2024 16:04:03 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r016-jertfa/</guid>
 				<description>&lt;p&gt;Umanitatea este Dumnezeu, iar omenirea nu. Nu pentru că omul, în sine, ar fi Dumnezeu, ci pentru că în Hristos umanitatea își descoperă adevărata sa vocație: aceea de a deveni părtașă dumnezeirii. Ea nu cere jertfa. Ea cere ebraicul tradus în limba română prin „milă”, acolo unde citim: „milă vreau, iar nu jertfă”.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 10: Frumusețea dincolo de Existență</title>
-				<link>http://localhost:1313/intruzive/posts/r10-frumusetea-dincolo-de-existenta/</link>
-				<pubDate>Sun, 01 Sep 2024 15:42:19 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r10-frumusetea-dincolo-de-existenta/</guid>
+				<link>http://localhost:1313/intruzive/posts/r015-frumusetea-dincolo-de-existenta/</link>
+				<pubDate>Mon, 01 Apr 2024 15:42:19 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r015-frumusetea-dincolo-de-existenta/</guid>
 				<description>&lt;p&gt;Pentru oameni, frumosul pe care aceștia îl observă în lume este un mister, după vorba unui mare filosof și poet care zice: „Eu nu strivesc corola de minuni a lumii”. Îi este imposibil să înțeleagă misterul acestei frumuseți. Dar, vorbind despre frumusețe, putem observa că ar putea intra în discuție și frumusețea gesturilor/faptelor umane pe care acestea o pot îmbrăca. Dar se pare că îi este mai accesibil să pună în aplicare frumusețea (să exprime estetica) asupra mediului înconjurător (în artă) decât asupra relațiilor interumane. Oare aceasta pentru că se urăște datorită neputinței experimentate cu privire la imperfecțiunea sa, imperfecțiunea acelui „cum” (Dasein) despre care vorbește Heidegger?&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 09: Securitate, Libertate și Legea Morală</title>
-				<link>http://localhost:1313/intruzive/posts/r09-securitate-libertate-si-legea-morala/</link>
-				<pubDate>Tue, 20 Aug 2024 15:17:22 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r09-securitate-libertate-si-legea-morala/</guid>
+				<link>http://localhost:1313/intruzive/posts/r014-securitate-libertate-si-legea-morala/</link>
+				<pubDate>Wed, 20 Mar 2024 15:17:22 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r014-securitate-libertate-si-legea-morala/</guid>
 				<description>&lt;p&gt;A început să apară în presa internațională informații despre interzicerea Bisericii Ortodoxe Ucrainene de sub Patriarhia Moscovei (Rusia). Am văzut un clip pe marginea acestui subiect (arestarea clericilor și interzicerea Bisericii). Lăsând deoparte celelalte detalii despre această situație, vreau să fac o observație. Aici e vorba despre securitate și libertatea religioasă. Mai avem încă un eveniment pe baza căruia putem vorbi despre securitate. Este vorba despre pandemia Covid-19. Aici putem vorbi despre securitate și libertatea de exprimare, la care indubitabil se adaugă libertatea de mișcare. Deci: securitate – libertate religioasă; securitate – libertate de exprimare și mișcare.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 08: Esența Care Apare și Dispare</title>
-				<link>http://localhost:1313/intruzive/posts/r08-esenta-care-apare-si-dispare/</link>
-				<pubDate>Fri, 09 Aug 2024 13:58:29 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r08-esenta-care-apare-si-dispare/</guid>
+				<link>http://localhost:1313/intruzive/posts/r013-esenta-care-apare-si-dispare/</link>
+				<pubDate>Sat, 09 Mar 2024 13:58:29 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r013-esenta-care-apare-si-dispare/</guid>
 				<description>&lt;p&gt;Despre anima observ că și ea are un arc tip clopot. Ea se conturează începând, într-un mod evident și concret, odată cu începuturile pubertății. Această evoluție, până la acest moment, cunoaște un grad de ascendență destul de discret, ajutată fiind de diverse procese psihologice caracteristice vârstelor (perioadelor de vârstă) copilăriei. Se pare că, potrivit lui Jung — adică potrivit cunoașterii existente până la Jung — maximul ajunge în jurul vârstei de 35 de ani, considerată a se situa la mijlocul vieții (depinde). Graficul clopotului, ajungând la final, se caracterizează, după cum bine știm, prin nivelul minim atins. Aici se pare că anima dispare, fiind înlocuită de arhetipul hermafroditului, pe care îl regăsim și la copii (prezența acestuia la copii fiind destul de mult dovedită de diferitele cercetări de specialitate). Hermafroditul apare astfel ca imagine a unui proces psihologic care urmărește moartea și învierea întregului, a acelui întreg care, înainte de moarte, era alcătuit din părți. Pentru a lăsa retoricii o oarecare libertate de reflecție, mă voi rezuma în a zice că încă mai caut o explicație problematicii ridicate aici. Este vorba despre inexistența ce duce la inexistență, esență ce apare și dispare în inexistență.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 07: Între Rațiune, Iubire și Întreg</title>
-				<link>http://localhost:1313/intruzive/posts/r07-intre-ratiune-iubire-si-intreg/</link>
-				<pubDate>Sun, 04 Aug 2024 12:31:30 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r07-intre-ratiune-iubire-si-intreg/</guid>
+				<link>http://localhost:1313/intruzive/posts/r012-intre-ratiune-iubire-si-intreg/</link>
+				<pubDate>Mon, 04 Mar 2024 12:31:30 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r012-intre-ratiune-iubire-si-intreg/</guid>
 				<description>&lt;p&gt;Dacă polemica deontologică a eticii este una plină de abstractizări, etosul umanului metamorfizează aceste abstractizări, subiectivizându-le până la antropofisme, înzestrându-le cu diferitele introiecții dogmatizante sau idealizante. Să fie rațiunea cea care creează această vâltoare? Vorbim aici despre abstractizarea concretului empiric.&lt;/p&gt;&#xA;&lt;p&gt;Iubirea este univers acoperit și, în același timp, univers descoperit, închis și deschis. De ce e nevoie să explicăm sentimentele prin imagini? Și iată un răspuns înfricoșător! Învățăm prin imagini (dar orbii din naștere cum învață dacă este așa?) din fragedă pruncie (deocamdată ne rezumăm doar la vedere). Dacă sentimentele sunt descrise prin imagini, înseamnă că de mici nu știm ce sentimente trăim, ci învățăm treptat să le recunoaștem și să le numim prin reprezentări. Dar nici măcar a trăi aceste sentimente nu știm ce înseamnă atunci.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>R. 06: Instrumentalizarea Arhetipurilor</title>
-				<link>http://localhost:1313/intruzive/posts/r06-instrumentalizarea-arhetipurilor/</link>
-				<pubDate>Thu, 01 Aug 2024 11:49:24 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r06-instrumentalizarea-arhetipurilor/</guid>
+				<title>R. 011: Instrumentalizarea Arhetipurilor</title>
+				<link>http://localhost:1313/intruzive/posts/r011-instrumentalizarea-arhetipurilor/</link>
+				<pubDate>Fri, 01 Mar 2024 11:49:24 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r011-instrumentalizarea-arhetipurilor/</guid>
 				<description>&lt;p&gt;Interesantă perspectivă — una care ar merita descrisă mai în detaliu. Afirmații precum „Femeia nu este om” sau „Există o rasă superioară, cea a albilor, a arienilor” exprimă mecanisme ideologice care nu aparțin doar trecutului. Poate că imperialismul postmodern confirmă impresia că istoria se repetă sau că timpul însuși se resetează. Argumentul istoric este adesea instrumentalizat în propriile interese, mai ales atunci când națiunea și elita devin, etic vorbind, asincronice.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>R. 05: Apa</title>
-				<link>http://localhost:1313/intruzive/posts/r05-apa/</link>
-				<pubDate>Mon, 29 Jul 2024 21:00:00 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r05-apa/</guid>
+				<title>R. 010: Apa</title>
+				<link>http://localhost:1313/intruzive/posts/r010-apa/</link>
+				<pubDate>Thu, 29 Feb 2024 21:00:00 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r010-apa/</guid>
 				<description>&lt;p&gt;Sunt revoltat! „O planetă, lumi diferite.” Unii își permit rochii desprinse parcă din fanteziile din filme, alții stau în mijlocul unui morman de moloz care umple strada cât cuprinzi cu ochii. Unii în săli luxoase, în care sclipirea e pretutindeni, alții văd cum cerul e plin de rachete ce se ciocnesc (anihilarea rachetelor inamice — vezi sistemul israelian antirachetă). Unii merg pe covor roșu, pe scările exterioare ale clădirii, cu rochii lungi și grele, încât e nevoie de patru oameni să țină trena acestei vestimentații, pe când alții își plâng frații, frecându‑și cu palmele genunchii, plini fiind de nevrozele terorii și ale morții.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 04: Căderea în Limbaj</title>
-				<link>http://localhost:1313/intruzive/posts/r04-caderea-in-limbaj/</link>
-				<pubDate>Sat, 27 Jul 2024 21:00:00 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r04-caderea-in-limbaj/</guid>
+				<link>http://localhost:1313/intruzive/posts/r009-caderea-in-limbaj/</link>
+				<pubDate>Tue, 27 Feb 2024 21:00:00 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r009-caderea-in-limbaj/</guid>
 				<description>&lt;p&gt;Nu ne cunoaștem limba pe care o folosim eronat (umanitatea), dar vrem să vorbim pe limba roboților (inteligența artificială).&lt;/p&gt;&#xA;&lt;p&gt;Transcende o revoltă împotriva acelui Dasein heideggerian, uimitor și un subiect bun de reflectat… Mă duce cu gândul la călătoria timp‑spațiu. Să ne folosim cum trebuie de această nouă abilitate a umanului. Iată cele două moduri de a o aplica.&lt;/p&gt;&#xA;&lt;p&gt;Mulți literați vorbesc despre un demiurg și un destin. Vorbesc despre haosul și non‑sensul pe care‑l văd în viața lor cotidiană. Rațiunea este haosul. Noi gândim haosul. Nu este nimic de gândit sau crezut. Există doar visare, deși nu visăm, ci dorim. Plângem dorind!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>R. 03: Omul. Martir fară sânge!</title>
-				<link>http://localhost:1313/intruzive/posts/r03-omul-martir-fara-sange/</link>
-				<pubDate>Fri, 26 Jul 2024 19:27:00 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r03-omul-martir-fara-sange/</guid>
+				<link>http://localhost:1313/intruzive/posts/r008-omul-martir-fara-sange/</link>
+				<pubDate>Mon, 26 Feb 2024 19:27:00 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r008-omul-martir-fara-sange/</guid>
 				<description>&lt;p&gt;Chiar dacă nu mai putem vorbi (deși în viitorul apropiat vom vorbi) despre martirii în spațiul bătrânului continent european, există un martirologiul al vieții duhovnicești creștine. Nu ne mai omorâm pentru creștinism dar omorâm viața duhovnicească/spirituală creștină. Cărămizile bisericilor sunt reci!&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>R. 02: Exilul Ființei</title>
-				<link>http://localhost:1313/intruzive/posts/r02-exilul-fiintei/</link>
-				<pubDate>Thu, 25 Jul 2024 21:00:00 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r02-exilul-fiintei/</guid>
+				<title>R. 007: Exilul Ființei</title>
+				<link>http://localhost:1313/intruzive/posts/r007-exilul-fiintei/</link>
+				<pubDate>Sun, 25 Feb 2024 21:00:00 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r007-exilul-fiintei/</guid>
 				<description>&lt;p&gt;Umanitatea s-a deportat în exil, dar este impresionant felul în care ea se manifestă în această experiență a dasein heideggerian prin impostură. Iată omul epocii romantice și omul epocii post-moderne. Iată lumina și întunericul într-o monadă de reguli etico-morale. Să fie ștearsă această morală! Să fie dizolvată această etica! Intrați prin poarta raiului căci răul se termină odată cu acestea două!&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>R. 01: Eros</title>
-				<link>http://localhost:1313/intruzive/posts/r01-eros/</link>
-				<pubDate>Tue, 23 Jul 2024 21:34:00 +0300</pubDate>
-				<guid>http://localhost:1313/intruzive/posts/r01-eros/</guid>
+				<title>R. 006: Eros</title>
+				<link>http://localhost:1313/intruzive/posts/r006-eros/</link>
+				<pubDate>Fri, 23 Feb 2024 21:34:00 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r006-eros/</guid>
 				<description>&lt;p&gt;Erosul și-a construit prin sine însuși catedră.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 005: Participare</title>
+				<link>http://localhost:1313/intruzive/posts/r005-participare/</link>
+				<pubDate>Thu, 18 Jan 2024 10:58:11 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r005-participare/</guid>
+				<description>&lt;p&gt;Acel «și a zis Dumnezeu» este verbul care a sădit în lume acele logoi / rațiune‑revelație.«Și Duhul lui Dumnezeu» — acel «suflu aprins», apărut prin contra‑analogie cu «suflul stins» din budism, sau acea apă primordială a lui Heraclit — este acel duh/spirit (nu suflet) care dă mișcare subiectului. Dar nu transformă obiectul în subiect. Un subiect poate fi și o ființă unicelulară. Persoana este un construct (nu un mod de a fi / nu un ipostas) format din subiect și rațiune.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>R. 002: Liric și Politic</title>
+				<link>http://localhost:1313/intruzive/posts/r002-liric-si-politic/</link>
+				<pubDate>Thu, 30 Nov 2023 10:42:51 +0300</pubDate>
+				<guid>http://localhost:1313/intruzive/posts/r002-liric-si-politic/</guid>
+				<description>&lt;p&gt;Despre cele scrise în „neajunsul de a te fi născut” a lui Emil Cioran.&#xA;Există o estetică a sentimentelor. El sugerea faptul că pentru a avea mulți prieteni ar fi o idee sa fim tangențial fata de alții (să avem preocupări tangențiale cu ei). Dar asta nu te face sa te regăsești pentru că asta nu e totul&amp;hellip; Nu ne definesc doar preocupările ci și emoțiile și gusturile.&#xA;Pentru că vorbim despre gusturi putem zice că este „acel nu știu ce”. Sunt sentimente care nu se pliază (sau in caz contrar e bine sa nu se plieze? -polemica) pe cele ale celui din fața noastră.&#xA;Liricul lipsit de persoana este una politizată. O estetică supusă coerenței&amp;hellip; A ideologiilor, regulilor. Viață ce are rațiunea – doar omul poate crea lirica. Liricul este creativ (eul personal creează nu se supune legilor. Legea libertății este una care creează&amp;hellip; Este singura – prima și ultima – sub care se supune viața. Viața crează nu se supune legilor ce o alterează -impropriu zis distruge) dar când liricul devine politica își pierde din viață.&#xA;Faptul că ar putea găsi în univers un lirism se datorează exteriorizării acestui simt al lirismului -aceasta estetică greu de definit. Se creează astfel imaginea din exterior omului interior rațional. Despre aceasta vorbim iar nu sentiment.&#xA;Când liricul se supune legilor ce ii îngrădeste puterea creatoare își pierde sensul vieții. Sensul liricii este viața. Viața creează &amp;hellip;&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

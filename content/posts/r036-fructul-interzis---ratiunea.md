@@ -1,7 +1,7 @@
 +++
 date = '2024-08-14T05:45:24+03:00'
 draft = false
-title = 'R. 31: Fructul Interzis - Ratiunea'
+title = 'R. 036: Fructul Interzis - Ratiunea'
 localCss = ["css/background.css"]
 +++
 Cu privire la categoriile criticii moralei lui Kant, pot spune că nici acestea nu rezolvă problema înțelegerii transcendentale a lucrurilor. De fapt, nu cred că acesta era scopul lui Kant. Însă faptul că, în cele din urmă, rămânem cu un semn de întrebare mă face să cred — și, în acest sens, să întăresc convingerea unor scriitori — că rațiunea este acel „măr” despre care ne vorbește Facerea/Geneza, mitul iudaic al începutului umanității.

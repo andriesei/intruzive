@@ -1,7 +1,7 @@
 +++
-date = '2024-12-01T13:41:00+03:00'
+date = '2024-12-02T13:41:00+03:00'
 draft = false
-title = 'R. 51: Asupra Egalităților Ontologice'
+title = 'R. 057: Asupra Egalităților Ontologice'
 localCss = ["css/background.css"]
 +++
  

@@ -1,7 +1,7 @@
 +++
 date = '2024-06-18T22:12:27+03:00'
 draft = false
-title = 'R. 22: Etichete'
+title = 'R. 027: Etichete'
 localCss = ["css/background.css"]
 +++
 Și aici nu propun o definiție individualistă. Teoretic răul este lipsa binelui. Bine nu este bunăstarea, deși cei doi termeni sunt extrem de dependenți unul față de celălalt. Dar bunăstarea include termenul de fericire. Însăși fericirea este un termen fără consistență.

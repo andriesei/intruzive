@@ -1,7 +1,7 @@
 +++
-date = '2025-03-21T04:23:29+03:00'
+date = '2025-03-06T04:23:29+03:00'
 draft = false
-title = 'R. 68: Moralitatea și Moștenirea Sângelui'
+title = 'R. 074: Moralitatea și Moștenirea Sângelui'
 localCss = ["css/background.css"]
 +++
 

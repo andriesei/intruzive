@@ -1,7 +1,7 @@
 +++
-date = '2026-04-11T21:50:28+03:00'
+date = '2025-06-23T21:50:28+03:00'
 draft = false
-title = 'R. 87: Inconștientul'
+title = 'R. 093: Inconștientul'
 localCss = ["css/background.css"]
 +++
 

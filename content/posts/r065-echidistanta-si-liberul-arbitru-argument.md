@@ -1,7 +1,7 @@
 +++
-date = '2025-01-26T01:53:56+03:00'
+date = '2025-01-25T01:53:56+03:00'
 draft = false
-title = 'R. 59: Echidistanță și Liberul Arbitru (argument)'
+title = 'R. 065: Echidistanță și Liberul Arbitru (argument)'
 localCss = ["css/background.css"]
 +++
 

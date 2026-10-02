@@ -1,7 +1,7 @@
 +++
-date = '2024-10-17T02:43:50+03:00'
+date = '2024-10-16T02:43:50+03:00'
 draft = false
-title = 'R. 42: Omenirea și fractura Tehnologică'
+title = 'R. 048: Omenirea și fractura Tehnologică'
 localCss = ["css/background.css"]
 +++
 Se pare că există deja încă o ruptură, una nouă, la nivelul civilizațiilor aflate la oricare nivel de dezvoltare. Este o ruptură care a căpătat formă. Marii magnați ai deceniilor tehnologice au început să își expună propriile viziuni cu privire la viitorul omenirii.

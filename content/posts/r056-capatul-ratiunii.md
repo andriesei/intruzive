@@ -1,7 +1,7 @@
 +++
-date = '2024-11-18T13:37:29+03:00'
+date = '2024-11-29T13:37:29+03:00'
 draft = false
-title = 'R. 50: Capătul Rațiunii'
+title = 'R. 056: Capătul Rațiunii'
 localCss = ["css/background.css"]
 +++
 Oricât aș fi bun sau rău, tot ipocrit sunt. Termenii de ipocrizie sau opusul acesteia trebuie excluși. Acum îmbrățișez discursul lui Nietzsche, care precomandă regândirea sistemului moral în totalitate. Eu zic că e imposibil doar în cazul în care omul ajunge să nu mai trebuiască să fie guvernat de acest sistem de gândire și, respectiv, de vreunul înrudit în imediata vecinătate sau îndepărtata vecinătate. 

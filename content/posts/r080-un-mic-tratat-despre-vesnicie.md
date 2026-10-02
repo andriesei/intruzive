@@ -1,7 +1,7 @@
 +++
-date = '2026-01-23T03:54:28+03:00'
+date = '2025-04-06T03:54:28+03:00'
 draft = false
-title = 'R. 74: Un mic Tratat despre Veșnicie'
+title = 'R. 080: Un mic Tratat despre Veșnicie'
 localCss = ["css/background.css"]
 +++
 

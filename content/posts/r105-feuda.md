@@ -1,7 +1,7 @@
 +++
-date = '2026-05-31T00:16:16+03:00'
+date = '2025-08-31T00:16:16+03:00'
 draft = false
-title = 'R. 98: Feuda'
+title = 'R. 105: Feuda'
 localCss = ["css/background.css"]
 +++
 

@@ -1,7 +1,7 @@
 +++
-date = '2025-03-26T02:04:49+03:00'
+date = '2025-03-09T02:04:49+03:00'
 draft = false
-title = 'R. 69: Interiorul Oscilant'
+title = 'R. 075: Interiorul Oscilant'
 localCss = ["css/background.css"]
 +++
 

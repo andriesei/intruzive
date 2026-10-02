@@ -1,7 +1,7 @@
 +++
-date = '2025-03-13T04:17:38+03:00'
+date = '2025-02-27T04:17:38+03:00'
 draft = false
-title = 'R. 67: Schisma: Ideologie, Antropologie și Epistemologie'
+title = 'R. 073: Schisma: Ideologie, Antropologie și Epistemologie'
 localCss = ["css/background.css"]
 +++
 

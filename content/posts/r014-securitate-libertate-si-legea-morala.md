@@ -1,7 +1,7 @@
 +++
 date = '2024-03-20T15:17:22+03:00'
 draft = false
-title = 'R. 09: Securitate, Libertate și Legea Morală'
+title = 'R. 014: Securitate, Libertate și Legea Morală'
 localCss = ["css/background.css"]
 +++
 

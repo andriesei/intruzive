@@ -1,5 +1,5 @@
 +++
-date = '2026-06-21T01:05:46+03:00'
+date = '2023-11-21T01:05:46+03:00'
 draft = false
 title = 'R. 101: Estetica Diferenței'
 localCss = ["css/background.css"]
@@ -7,7 +7,7 @@ localCss = ["css/background.css"]
 
 Astăzi, pentru a‑mi face un playlist muzical, am ajuns la o piesă care mi‑a antrenat mintea (mi‑a provocat mintea) să găsească rezolvarea pentru probleme pe care aș vrea să le rezolv cu scopul de a face o lume mai bună (Red — nume de cod). A doua melodie care m‑a incitat este de la un cont cu numele de cod ren.
 
-Capitolul estetică: unele greșeli sau imperfecțiuni vocale sună frumos (e o estetică ascunsă datorită căreia s‑a născut zicala "gusturile nu se discută"). E o melodie rap în engleză. Eu, dacă sunt perceput ca "ciudat", pentru tine este riscant (te sperii, iar eu o percep ca pe o respingere, pentru că mă vezi diferit și îți e frică de necunoscut). Melodia spune că percep acest lucru ca onorabil, pentru că această ciudățenie mă face original (în sens individualist — mă văd diferit de ceilalți, fapt care îmi dă curaj să fiu creator; omul este creator… creează lumea).
+Capitolul estetică: unele greșeli sau imperfecțiuni vocale sună frumos (e o estetică ascunsă datorită căreia s‑a născut zicala "gusturile nu se discută"). E o melodie rap în engleză. Eu, dacă sunt perceput ca "ciudat", pentru tine este riscant (te sperii, iar eu o percep ca pe o respingere, pentru că mă vezi diferit și îți e frică de necunoscut). Melodia spune că acest lucru trebuie perceput unul drept onorabil, pentru că această ciudățenie mă face original (în sens individualist — mă văd diferit de ceilalți, fapt care îmi dă curaj să fiu creator; omul este creator… creează lumea).
 
 Continui… Pentru că te înțeleg, îți dau timp în care te vei distanța de mine. E o idee prin care mulți oameni percepuți ca "ciudați" se pot refugia în această lume. În cazul lor, durerea apare atunci când își dau seama că sunt considerați diferiți. Rezolvarea este să le lase celorlalți timpul necesar să "digere" informația (deși faptul că au nevoie de timp este dureros — pentru că noi, ca oameni, avem nevoie de o acceptare rapidă; nu ne dăm seama că cerem mult, pentru că la mijloc este vorba despre jocul pe care ni‑l face rațiunea — "idioata rațiune").
 

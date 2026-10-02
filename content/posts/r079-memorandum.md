@@ -1,7 +1,7 @@
 +++
-date = '2026-01-15T03:39:57+03:00'
+date = '2025-04-01T03:39:57+03:00'
 draft = false
-title = 'R. 73: Memorandum'
+title = 'R. 079: Memorandum'
 localCss = ["css/background.css"]
 +++
 

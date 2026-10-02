@@ -1,7 +1,7 @@
 +++
-date = '2024-09-03T14:03:35+03:00'
+date = '2024-09-01T14:03:35+03:00'
 draft = false
-title = 'R. 35: Tirania Idealurilor'
+title = 'R. 040: Tirania Idealurilor'
 localCss = ["css/background.css"]
 +++
 Nici acțiunea și nici pasivitatea nu își mai găsesc substanța, anume materializarea celor de care am nevoie din punct de vedere ființial.

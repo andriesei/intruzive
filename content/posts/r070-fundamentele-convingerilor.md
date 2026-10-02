@@ -1,7 +1,7 @@
 +++
-date = '2025-02-16T14:03:16+03:00'
+date = '2025-02-15T14:03:16+03:00'
 draft = false
-title = 'R. 64: Fundamentele Convingerilor'
+title = 'R. 070: Fundamentele Convingerilor'
 localCss = ["css/background.css"]
 +++
 

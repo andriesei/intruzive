@@ -1,7 +1,7 @@
 +++
-date = '2026-09-27T00:50:19+03:00'
-draft = true
-title = 'R100 Existenta Si Fiinta Azi'
+date = '2025-09-09T23:50:19+03:00'
+draft = false
+title = 'R. 107: Existența și Ființa azi'
 localCss = ["css/background.css"]
 +++
 

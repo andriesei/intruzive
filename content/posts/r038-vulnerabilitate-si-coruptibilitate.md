@@ -1,7 +1,7 @@
 +++
 date = '2024-08-23T06:14:48+03:00'
 draft = false
-title = 'R. 33: Vulnerabilitate și Coruptibilitate'
+title = 'R. 038: Vulnerabilitate și Coruptibilitate'
 localCss = ["css/background.css"]
 +++
 Bețivul bea să-și înece supărarea că este bețiv. Adică, conștientizarea vulnerabilității îl face să se afunde într-un adânc fără sfârșit și deplorabil de infinit. Sintagma care arată excesul de prostie trăită de un om viciat este: „Bețivul bea pentru că e supărat că e bețiv.”

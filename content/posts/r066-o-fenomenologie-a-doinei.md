@@ -1,7 +1,7 @@
 +++
 date = '2025-01-29T02:00:42+03:00'
 draft = false
-title = 'R. 60: O Fenomenologie a Doinei'
+title = 'R. 066: O Fenomenologie a Doinei'
 localCss = ["css/background.css"]
 +++
 

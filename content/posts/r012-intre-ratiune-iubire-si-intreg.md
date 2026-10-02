@@ -1,7 +1,7 @@
 +++
 date = '2024-03-04T12:31:30+03:00'
 draft = false
-title = 'R. 07: Între Rațiune, Iubire și Întreg'
+title = 'R. 012: Între Rațiune, Iubire și Întreg'
 localCss = ["css/background.css"]
 +++
 Dacă polemica deontologică a eticii este una plină de abstractizări, etosul umanului metamorfizează aceste abstractizări, subiectivizându-le până la antropofisme, înzestrându-le cu diferitele introiecții dogmatizante sau idealizante. Să fie rațiunea cea care creează această vâltoare? Vorbim aici despre abstractizarea concretului empiric. 

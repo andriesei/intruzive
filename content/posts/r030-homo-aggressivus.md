@@ -1,7 +1,7 @@
 +++
 date = '2024-06-30T03:40:04+03:00'
 draft = false
-title = 'R. 25: Homo Aggressivus'
+title = 'R. 030: Homo Aggressivus'
 localCss = ["css/background.css"]
 +++
 De ce agresivitatea este ceva ce atrage? Nu mă refer doar la cazuri în care aceasta nu are legătură cu sexul. Nu afirm aici că sexul este ceva care are în componență ceva din masochism. De aceea, probabil, sunt oameni care acceptă sau se regăsesc (din punct de vedere psiho-erotic) acolo, că viața erotică are și ea psihologia ei, demonstrat fiind faptul că există sexologi ca și consultanți în domeniul psihologic, specializați, făcând afirmații personale după propria lor interpretare. Astfel, există diferite poziționări în ceea ce privește acest subiect. Alți sexologi, probabil, sunt mult prea empirici decât ar trebui.

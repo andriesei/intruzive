@@ -1,7 +1,7 @@
 +++
-date = '2024-10-22T03:10:22+03:00'
+date = '2024-10-23T03:10:22+03:00'
 draft = false
-title = 'R. 43: Educație pentru Viitor'
+title = 'R. 049: Educație pentru Viitor'
 localCss = ["css/background.css"]
 +++
 

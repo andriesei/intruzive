@@ -1,7 +1,7 @@
 +++
 date = '2024-12-15T02:21:39+03:00'
 draft = false
-title = 'R. 52: prin "Altul"'
+title = 'R. 058: prin "Altul"'
 localCss = ["css/background.css"]
 +++
 

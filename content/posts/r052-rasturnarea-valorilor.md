@@ -1,7 +1,7 @@
 +++
 date = '2024-11-01T09:18:20+03:00'
 draft = false
-title = 'R. 46: Răsturnarea Valorilor'
+title = 'R. 052: Răsturnarea Valorilor'
 localCss = ["css/background.css"]
 +++
 Un copil căruia i se vorbește despre Dumnezeu ca proniator și atotbun, văzând extremele încercări cu care se confruntă familia sa — de exemplu, schimbarea regimului — devine un veritabil oponent chiar și al ideii de Dumnezeu sau, întrutotul, răzvrătit față de Demiurg.

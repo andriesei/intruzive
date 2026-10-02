@@ -1,7 +1,7 @@
 +++
-date = '2026-02-04T04:04:52+03:00'
+date = '2025-04-15T04:04:52+03:00'
 draft = false
-title = 'R. 75: Paradoxul Libertății și Exilul din Eden'
+title = 'R. 081: Paradoxul Libertății și Exilul din Eden'
 localCss = ["css/background.css"]
 +++
 

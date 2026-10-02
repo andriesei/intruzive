@@ -1,7 +1,7 @@
 +++
 date = '2024-05-10T19:25:32+03:00'
 draft = false
-title = 'R. 15: Rodirea după Moarte'
+title = 'R. 020: Rodirea după Moarte'
 localCss = ["css/background.css"]
 +++
 Drumul spre rezultatele avute în urma succesului poate fi asemuit cu nașterea unui prunc. Adică mulți te întreabă cu privire la cum ai reușit să ajungi la acest succes. Se pare că cel mai bun răspuns este acela în care aduci aminte de chinurile prin care o femeie trece în timpul nașterii. Și hai să dezvoltăm. Sarcina este acest drum sau stadiu care duce spre aducerea în lume a unui copil. În domeniul nutriției, ca exemplu îndepărtat, îți înfrânezi poftele sau chiar să nu dai importanță senzației de nesațietate. În domeniul antreprenoriatului îți accesezi destul de multe resurse, ducând chiar și la o epuizare accentuată a acestora, pentru a pune în picioare o afacere durabilă sau, mai bine zis, pentru a pune o idee în aplicare, dar care să fie fructificată ani întregi, chiar și după ce mori. E ca un copil ieșit din tine: ceva care continuă să rodească și după ce tu nu mai ești.

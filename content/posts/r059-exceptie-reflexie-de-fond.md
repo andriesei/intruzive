@@ -1,7 +1,7 @@
 +++
 date = '2024-12-19T02:25:36+03:00'
 draft = false
-title = 'R. 53: Excepție: Reflexie de fond (dedublare)'
+title = 'R. 059: Excepție: Reflexie de fond (dedublare)'
 localCss = ["css/background.css"]
 +++
 

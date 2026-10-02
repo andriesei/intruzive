@@ -1,7 +1,7 @@
 +++
-date = '2026-03-01T13:14:26+03:00'
+date = '2025-05-11T13:14:26+03:00'
 draft = false
-title = 'R. 80: Libertate și Securitate'
+title = 'R. 086: Libertate și Securitate'
 localCss = ["css/background.css"]
 +++
 

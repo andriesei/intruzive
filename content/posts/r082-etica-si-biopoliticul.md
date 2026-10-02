@@ -1,7 +1,7 @@
 +++
-date = '2026-02-07T04:17:09+03:00'
+date = '2025-04-21T04:17:09+03:00'
 draft = false
-title = 'R. 76: Etica și Biopoliticul'
+title = 'R. 082: Etica și Biopoliticul'
 localCss = ["css/background.css"]
 +++
 

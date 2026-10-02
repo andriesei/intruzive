@@ -1,7 +1,7 @@
 +++
 date = '2024-07-18T10:08:27+03:00'
 draft = false
-title = 'R. 28: Contrapuneri'
+title = 'R. 033: Contrapuneri'
 localCss = ["css/background.css"]
 +++
 Orgoliul / ego-ul este un lucru nesimțit față de ceilalți, dacă e să îl analizăm în virtutea regulilor bunelor maniere, adică a legilor nescrise (dar mai nou exprimate și dureros experimentate de cei care formează societatea în mod independent, adică strict individual). Nu datorită egoului omului societatea nu se dezvoltă / nu evoluează. De fapt, el este cel care propulsează spre evoluție. Doar că bunele maniere, în zilele noastre, sunt puse la rang de legiuire. Legea dictează ceea ce este nesimțit sau contrariul. Totuși, cel dintâi, adică orgoliul, devine „simțit” (contrapunere) doar în sfera legii. Dar dacă această cartă nu ar mai exista, totul ar deveni „simțit” în loc de „nesimțit”.

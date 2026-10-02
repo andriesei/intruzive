@@ -1,7 +1,7 @@
 +++
-date = '2025-01-17T01:28:18+03:00'
+date = '2025-01-16T01:28:18+03:00'
 draft = false
-title = 'R. 57: Sacralizarea Politicului'
+title = 'R. 063: Sacralizarea Politicului'
 localCss = ["css/background.css"]
 +++
 

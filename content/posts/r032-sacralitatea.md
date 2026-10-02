@@ -1,7 +1,7 @@
 +++
 date = '2024-07-13T14:14:15+03:00'
 draft = false
-title = 'R. 27: Amprenta Sacralității'
+title = 'R. 032: Amprenta Sacralității'
 localCss = ["css/background.css"]
 +++
 Templul te mai curățește pângărit fiind? Totuși, a fost templu!!

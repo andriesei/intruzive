@@ -1,7 +1,7 @@
 +++
-date = '2026-05-12T22:03:09+03:00'
+date = '2025-08-04T22:03:09+03:00'
 draft = false
-title = 'R. 94: Ethos și Kratos'
+title = 'R. 100: Ethos și Kratos'
 localCss = ["css/background.css"]
 +++
 
