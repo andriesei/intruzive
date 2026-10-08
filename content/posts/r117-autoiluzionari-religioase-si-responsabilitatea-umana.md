@@ -1,5 +1,5 @@
 +++
-date = '2026-10-02T20:34:55+03:00'
+date = '2025-10-14T20:34:55+03:00'
 draft = false
 title = 'R. 117: Auto-iluzionări Religioase și responsabilitatea Umană'
 localCss = ["css/background.css"]

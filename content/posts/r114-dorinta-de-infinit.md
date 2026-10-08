@@ -1,5 +1,5 @@
 +++
-date = '2026-10-02T19:34:43+03:00'
+date = '2025-10-05T19:34:43+03:00'
 draft = false
 title = 'R. 114: Dorința de Infinit'
 localCss = ["css/background.css"]

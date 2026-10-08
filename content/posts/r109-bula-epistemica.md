@@ -1,5 +1,5 @@
 +++
-date = '2025-09-24T15:39:14+03:00'
+date = '2025-09-19T15:39:14+03:00'
 draft = false
 title = 'R. 109: Bula Epistemica'
 localCss = ["css/background.css"]
