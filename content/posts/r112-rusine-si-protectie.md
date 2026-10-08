@@ -1,6 +1,6 @@
 +++
 date = '2026-10-02T19:15:37+03:00'
-draft = true
+draft = false
 title = 'R. 112: Rușine și Protecție'
 localCss = ["css/background.css"]
 +++
