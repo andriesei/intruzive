@@ -1,7 +1,7 @@
 +++
-date = '2026-10-03T08:40:59+03:00'
-draft = true
-title = 'R125 Contradictie'
+date = '2026-11-14T08:40:59+03:00'
+draft = false
+title = 'R. 125: Contradicție'
 localCss = ["css/background.css"]
 +++
 

@@ -1,7 +1,7 @@
 +++
-date = '2026-10-03T08:53:28+03:00'
-draft = true
-title = 'R127 Verticalitate'
+date = '2026-11-20T08:53:28+03:00'
+draft = false
+title = 'R. 127: Verticalitate'
 localCss = ["css/background.css"]
 +++
 

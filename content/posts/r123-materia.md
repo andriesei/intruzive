@@ -1,7 +1,7 @@
 +++
-date = '2026-10-03T08:13:52+03:00'
-draft = true
-title = 'R123 Materia'
+date = '2026-11-06T08:13:52+03:00'
+draft = false
+title = 'R. 123: Materia'
 localCss = ["css/background.css"]
 +++
 Cred că aș putea scrie în mii de feluri urâciunea lumii pe care Ecleziastul (Solomon) a concentrat-o doar în câteva versete biblice.
