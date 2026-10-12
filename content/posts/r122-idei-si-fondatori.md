@@ -1,5 +1,5 @@
 +++
-date = '2026-11-03T08:03:19+03:00'
+date = '2025-11-03T08:03:19+03:00'
 draft = false
 title = 'R. 122: Idei și Fondatori'
 localCss = ["css/background.css"]
