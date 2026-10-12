@@ -1,7 +1,7 @@
 +++
-date = '2026-10-07T11:46:39+03:00'
-draft = true
-title = 'R155 Despre Cognoscibilitatea Substantei'
+date = '2026-05-30T00:31:38+03:00'
+draft = false
+title = 'R. 155: despre Cognoscibilitatea Substanței'
 localCss = ["css/background.css"]
 +++
 
