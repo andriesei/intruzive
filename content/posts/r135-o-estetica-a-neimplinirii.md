@@ -1,7 +1,7 @@
 +++
-date = '2026-10-03T15:23:13+03:00'
-draft = true
-title = 'R135 O Estetica a Neimplinirii'
+date = '2026-01-03T00:28:09+03:00'
+draft = false
+title = 'R. 135: o Estetică a Neîmplinirii'
 localCss = ["css/background.css"]
 +++
 

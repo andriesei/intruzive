@@ -1,7 +1,7 @@
 +++
-date = '2026-10-03T15:39:16+03:00'
-draft = true
-title = 'R137 Pacatul Validare Si Ranile Eului'
+date = '2026-01-17T01:14:13+03:00'
+draft = false
+title = 'R. 137: Păcatul, Validare și Rănile Eu-lui'
 localCss = ["css/background.css"]
 +++
 

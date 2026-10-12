@@ -1,7 +1,7 @@
 +++
-date = '2026-10-03T15:29:46+03:00'
-draft = true
-title = 'R136 Cand Celalalt Devine Eu'
+date = '2026-01-10T21:39:22+03:00'
+draft = false
+title = 'R. 136: când Celălalt devine Eu'
 localCss = ["css/background.css"]
 +++
 

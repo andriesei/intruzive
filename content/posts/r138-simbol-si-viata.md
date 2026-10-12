@@ -1,7 +1,7 @@
 +++
 date = '2026-10-03T16:20:01+03:00'
 draft = true
-title = 'R138 Simbol Si Viata'
+title = 'R. 138 Simbol Si Viata'
 localCss = ["css/background.css"]
 +++
 
