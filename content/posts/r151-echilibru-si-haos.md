@@ -1,7 +1,7 @@
 +++
-date = '2026-10-07T11:12:40+03:00'
-draft = true
-title = 'R151 Echilibru Si Haos (Sisif)'
+date = '2026-05-02T21:43:40+03:00'
+draft = false
+title = 'R. 151: Echilibru și Haos (Sisif)'
 localCss = ["css/background.css"]
 +++
 

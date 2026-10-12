@@ -1,7 +1,7 @@
 +++
-date = '2026-10-07T02:57:00+03:00'
-draft = true
-title = 'R144 Dor Si Epectaza'
+date = '2026-03-07T23:18:27+03:00'
+draft = false
+title = 'R. 144: Dor și Epectază'
 localCss = ["css/background.css"]
 +++
 

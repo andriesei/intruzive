@@ -1,7 +1,7 @@
 +++
-date = '2026-10-03T16:44:48+03:00'
-draft = true
-title = 'R139 Guvernante Si Transformari'
+date = '2026-01-31T23:33:19+03:00'
+draft = false
+title = 'R. 139: Guvernanțe și Transformări'
 localCss = ["css/background.css"]
 +++
 

@@ -1,7 +1,7 @@
 +++
-date = '2026-10-07T11:38:33+03:00'
-draft = true
-title = 'R153 Spatiul Intim Si Rasism'
+date = '2026-05-16T22:37:33+03:00'
+draft = false
+title = 'R. 153: Spațiul Intim și Rasismul'
 localCss = ["css/background.css"]
 +++
 
