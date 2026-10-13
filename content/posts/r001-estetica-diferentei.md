@@ -1,7 +1,7 @@
 +++
 date = '2023-11-21T01:05:46+03:00'
 draft = false
-title = 'R. 101: Estetica Diferenței'
+title = 'R. 001: Estetica Diferenței'
 localCss = ["css/background.css"]
 +++
 
