@@ -1,0 +1,47 @@
+# Glosar de termeni — o intrare pe linie:   Etichetă | expresie regulată (opțional)
+# Fără expresie, se caută eticheta + orice terminație. Majusculele sunt ignorate.
+Adevăr | (?<!\w)adev[ăa]r\w*
+Celălalt | (?<!\w)cel[ăa]la[lț]\w*
+Conștiință | (?<!\w)con[sș]ti[ei]n\w*
+Convingere | (?<!\w)convinge\w*
+Credință | (?<!\w)credin[țt]\w*
+Cunoaștere | (?<!\w)cunoa[șs]t\w*
+Definiție | (?<!\w)defini\w*
+Durere | (?<!\w)durer\w*
+Etică | (?<!\w)etic[ăa]?(?!\w)
+Existență | (?<!\w)existen[țt]\w*
+Experiență | (?<!\w)experien\w*
+Ființă | (?<!\w)fiin[țt]\w*
+Frică | (?<!\w)fric[ăa]\w*
+Gândire | (?<!\w)g[âa]ndir\w*
+Identitate | (?<!\w)identit\w*
+Idee | (?<!\w)ide(?:e|ea|ei|ile|ilor)(?!\w)
+Ignoranță | (?<!\w)ignoran\w*
+Istorie | (?<!\w)istori\w*
+Iubire | (?<!\w)iubir\w*
+Libertate | (?<!\w)libert\w*
+Liber arbitru | (?<!\w)liber\w*\s+arbitr\w*
+Limbaj | (?<!\w)limbaj\w*
+Lume | (?<!\w)(?:lumea|lumii|lume)(?!\w)
+Minte | (?<!\w)(?:mintea|minte|min[țt]ii|min[țt]i)(?!\w)
+Moarte | (?<!\w)(?:moart\w*|mor[țt](?:ii|ilor|ul|ului))(?!\w)
+Moralitate | (?<!\w)moral\w*
+Natură | (?<!\w)natur\w*
+Nevoie | (?<!\w)nevoi\w*
+Om | (?<!\w)(?:omul|omului|oamen\w*|om)(?!\w)
+Realitate | (?<!\w)realit\w*
+Relație | (?<!\w)rela[țt]i\w*
+Religie | (?<!\w)religi\w*
+Rațiune | (?<!\w)ra[țt]iun\w*
+Sens | (?<!\w)sens(?:ul|ului|uri|urile|urilor)?(?!\w)
+Simbol | (?<!\w)simbol\w*
+Sistem | (?<!\w)sistem\w*
+Societate | (?<!\w)societ\w*
+Spirit | (?<!\w)spirit\w*
+Subiect | (?<!\w)subiect\w*
+Sânge | (?<!\w)s[âa]nge\w*
+Umanitate | (?<!\w)umanit\w*
+Univers | (?<!\w)univers\w*
+Valoare | (?<!\w)valo[ar]\w*
+Viață | (?<!\w)(?:via[țt][ăa]|vie[țt]i\w*)(?!\w)
+Voință | (?<!\w)voin[țt]\w*

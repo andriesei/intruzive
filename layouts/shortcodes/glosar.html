@@ -1,0 +1,28 @@
+{{- /* Glosar generat din data/glosar.json (vezi tools/glosar.py). Nu modifică tema. */ -}}
+{{- $d := site.Data.glosar -}}
+{{- $pagini := newScratch -}}
+{{- range where site.RegularPages "Section" "posts" -}}
+  {{- $pagini.Set .Title . -}}
+{{- end -}}
+<div class="glosar">
+{{- range $sec := slice (dict "titlu" "Glosar de termeni" "cheie" "termeni") (dict "titlu" "Glosar onomastic" "cheie" "nume") }}
+  <section class="glosar-card">
+    <h3 class="glosar-titlu">{{ $sec.titlu }}</h3>
+    {{- range (index $d $sec.cheie) }}
+      {{- if .articole }}
+    <details class="glosar-intrare">
+      <summary>{{ .nume }}<span class="glosar-nr">{{ .total }}× · {{ len .articole }} {{ if eq (len .articole) 1 }}articol{{ else }}articole{{ end }}</span></summary>
+      <ul>
+        {{- range .articole }}
+          {{- $a := . }}
+          {{- with $pagini.Get $a.t }}
+        <li><a href="{{ printf "%s#:~:text=%s" .RelPermalink $a.q | safeURL }}">{{ .Title }}</a>{{ if gt $a.n 1 }} <small>({{ $a.n }}×)</small>{{ end }}</li>
+          {{- end }}
+        {{- end }}
+      </ul>
+    </details>
+      {{- end }}
+    {{- end }}
+  </section>
+{{- end }}
+</div>

@@ -1,0 +1,40 @@
+/* Pagina Glosar — două casete card. Selectori prefixați ca să bată regulile temei. */
+article.main > div.content .glosar {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem;
+  align-items: start;
+}
+article.main > div.content .glosar-card {
+  background: rgba(32, 32, 32, 0.78);
+  border: 1px solid rgba(238, 255, 255, 0.16);
+  border-radius: 10px;
+  padding: 0.4rem 1.1rem 0.8rem;
+  max-height: 72vh;
+  overflow-y: auto;
+  position: relative;
+  z-index: 1;
+}
+article.main > div.content .glosar-card .glosar-titlu {
+  position: sticky; top: 0;
+  margin: 0 -1.1rem 0.4rem; padding: 0.9rem 1.1rem 0.6rem;
+  background: #202020;
+  border-bottom: 1px solid #5c5e60;
+  color: #7fb8ee;
+  font-size: 1.15rem; line-height: 1.4;
+}
+article.main > div.content .glosar-intrare { border-bottom: 1px solid rgba(255, 255, 255, 0.07); }
+article.main > div.content .glosar-intrare summary {
+  cursor: pointer; padding: 0.35rem 0; line-height: 1.5;
+}
+article.main > div.content .glosar-intrare summary:hover { color: #7fb8ee; }
+article.main > div.content .glosar-nr {
+  margin-left: 0.5em; font-size: 0.82em; opacity: 0.55;
+}
+article.main > div.content .glosar-intrare ul {
+  list-style: none; margin: 0 0 0.5rem; padding: 0 0 0 0.9rem;
+  max-height: 15rem; overflow-y: auto; font-size: 0.93em;
+}
+article.main > div.content .glosar-intrare li { margin: 0.15rem 0; line-height: 1.5; }
+article.main > div.content .glosar-intrare small { opacity: 0.5; }

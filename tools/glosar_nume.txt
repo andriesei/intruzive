@@ -1,0 +1,51 @@
+# Glosar onomastic — o intrare pe linie:   Etichetă | expresie regulată (opțional)
+# Fără expresie, se caută eticheta + orice terminație.
+# Aici majusculele CONTEAZĂ, fiindcă sunt nume proprii.
+Aristotel
+Blaga, Lucian | (?<!\w)(?:Lucian )?Blaga\w*
+Cioran, Emil | (?<!\w)(?:Emil )?Cioran\w*
+Dante
+Dumnezeu
+Francisc
+Heidegger, Martin | (?<!\w)(?:Martin )?Heidegger\w*
+Heraclit
+Iisus Hristos | (?<!\w)(?:Iisus|Hristos)\w*
+Jung, Karl Gustav | (?<!\w)(?:Karl Gustav )?Jung\w*
+Kafka
+Kant
+Maxim Mărturisitorul | (?<!\w)(?:Maxim )?Mărturisitorul\w*
+Nietzsche
+Origen
+Palama, Grigorie | (?<!\w)(?:Grigorie )?Palama\w*
+Platon
+Silvestru
+Sisif
+Buddha | (?<!\w)(?:Buddha|Buda)(?!\w)
+Cain și Abel | (?<!\w)(?:Cain|Abel)(?!\w)
+Camus
+Dan, Nicușor | (?<!\w)Nicușor Dan\w*
+Demiurg
+Eliade, Mircea | (?<!\w)(?:Mircea )?Eliade\w*
+Elohim
+Eminescu
+Epicur
+Freud
+Gates, Bill | (?<!\w)Bill Gates\w*
+Gogol
+Gulliver
+Kierkegaard
+Lewis, C. S. | (?<!\w)(?:C\. ?S\. )?Lewis\w*
+Pantocrator | (?<!\w)Pantocrator\w*
+Pavel
+Proust
+Serafim de Sarov | (?<!\w)(?:Serafim de )?Sarov\w*
+Solomon (Ecleziastul) | (?<!\w)(?:Solomon|Ecleziastul|Ecclesiastului)(?!\w)
+Spinoza
+Stăniloae
+Steiner, Rudolf | (?<!\w)(?:Rudolf )?Steiner\w*
+Van Gogh | (?<!\w)Van Gogh\w*
+Vishnu
+
+Ciprian
+Epstein
+Luminița

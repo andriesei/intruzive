@@ -1,7 +1,7 @@
 +++
 date = '2026-05-09T01:21:09+03:00'
 draft = false
-title = 'R. 152: Înființare și Durere'
+title = 'R. 153: Înființare și Durere'
 localCss = ["css/background.css"]
 +++
 

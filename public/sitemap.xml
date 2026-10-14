@@ -2,92 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/intruzive/glosar/</loc>
+    <lastmod>2026-10-12T12:00:00+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/intruzive/posts/</loc>
-    <lastmod>2026-10-03T16:44:48+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r139-guvernante-si-transformari/</loc>
-    <lastmod>2026-10-03T16:44:48+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r138-simbol-si-viata/</loc>
-    <lastmod>2026-10-03T16:20:01+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r137-pacatul-validare-si-ranile-eului/</loc>
-    <lastmod>2026-10-03T15:39:16+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r136-cand-celalalt-devine-eu/</loc>
-    <lastmod>2026-10-03T15:29:46+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r135-o-estetica-a-neimplinirii/</loc>
-    <lastmod>2026-10-03T15:23:13+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r134-dospire/</loc>
-    <lastmod>2026-10-03T14:33:23+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r133-fapte/</loc>
-    <lastmod>2026-10-03T14:26:32+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r132-aroganta/</loc>
-    <lastmod>2026-10-03T14:19:59+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r131-motiv/</loc>
-    <lastmod>2026-10-03T13:59:19+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r130-telosul-umanitatii/</loc>
-    <lastmod>2026-10-03T13:48:44+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r129-identitate/</loc>
-    <lastmod>2026-10-03T09:08:39+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r128-razboi-si-refugiu/</loc>
-    <lastmod>2026-10-03T08:59:16+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r127-verticalitate/</loc>
-    <lastmod>2026-10-03T08:53:28+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r126-structura./</loc>
-    <lastmod>2026-10-03T08:44:05+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r125-contradictie/</loc>
-    <lastmod>2026-10-03T08:40:59+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r124-in-cautarea-sinelui/</loc>
-    <lastmod>2026-10-03T08:28:45+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r123-materia/</loc>
-    <lastmod>2026-10-03T08:13:52+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r122-idei-si-fondatori/</loc>
-    <lastmod>2026-10-03T08:03:19+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r121-colectii/</loc>
-    <lastmod>2026-10-02T21:35:09+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r120-delegatii/</loc>
-    <lastmod>2026-10-02T21:35:09+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r119-vulnerabilitatea-si-potentarea/</loc>
-    <lastmod>2026-10-02T21:35:09+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r118-anatomii/</loc>
-    <lastmod>2026-10-02T21:35:09+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r117-autoiluzionari-religioase-si-responsabilitatea-umana/</loc>
-    <lastmod>2026-10-02T21:35:09+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r116-enviromentul/</loc>
-    <lastmod>2026-10-02T21:35:09+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r115-vis-si-durere/</loc>
-    <lastmod>2026-10-02T21:35:09+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r114-dorinta-de-infinit/</loc>
-    <lastmod>2026-10-02T21:35:09+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r113-cotidian/</loc>
-    <lastmod>2026-10-02T21:35:09+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r112-rusine-si-protectie/</loc>
-    <lastmod>2026-10-02T21:35:09+03:00</lastmod>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intruzive/posts/r000-00/</loc>
     <lastmod>2026-10-02T16:19:28+03:00</lastmod>
@@ -95,20 +14,173 @@
     <loc>http://localhost:1313/intruzive/posts/r000-0/</loc>
     <lastmod>2026-10-02T02:34:05+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r162-neuman/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r161-rana/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r160-prezenta/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r159-uitare-de-sine/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r158-povara/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r157-cheia/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r156-despre-cognoscibilitatea-substantei/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r155-religiosul/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r154-spatiul-intim-si-rasism/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r153-infiintare-si-durere/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r152-echilibru-si-haos/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r151-inconstient-si-manifest/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r150-definirea/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r149-conservare/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r148-orgoliul-cosmic/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r147-ciclicitate-si-atasament/</loc>
+    <lastmod>2026-10-12T21:51:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r146-trepte/</loc>
+    <lastmod>2026-10-12T21:51:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r145-cutia-si-vointa/</loc>
+    <lastmod>2026-10-12T21:51:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r144-dor-si-epectaza/</loc>
+    <lastmod>2026-10-12T21:51:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r143-un-gol/</loc>
+    <lastmod>2026-10-12T21:51:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r142-norme/</loc>
+    <lastmod>2026-10-12T21:51:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r141-provocari-identitare/</loc>
+    <lastmod>2026-10-12T21:51:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r140-interpretare-si-moralitate/</loc>
+    <lastmod>2026-10-12T21:51:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r139-guvernante-si-transformari/</loc>
+    <lastmod>2026-10-12T21:51:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r138-simbol-si-viata/</loc>
+    <lastmod>2026-10-12T21:51:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r137-pacatul-validare-si-ranile-eului/</loc>
+    <lastmod>2026-10-12T21:04:15+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r136-cand-celalalt-devine-eu/</loc>
+    <lastmod>2026-10-12T21:04:15+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r135-o-estetica-a-neimplinirii/</loc>
+    <lastmod>2026-10-12T21:04:15+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r134-dospire/</loc>
+    <lastmod>2026-10-12T21:04:15+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r133-fapte/</loc>
+    <lastmod>2026-10-12T21:04:15+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r132-aroganta/</loc>
+    <lastmod>2026-10-12T21:04:15+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r131-motiv/</loc>
+    <lastmod>2026-10-12T21:04:15+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r130-telosul-umanitatii/</loc>
+    <lastmod>2026-10-12T21:04:15+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r129-identitate/</loc>
+    <lastmod>2026-10-08T09:17:27+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r128-razboi-si-refugiu/</loc>
+    <lastmod>2026-10-08T09:17:27+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r127-verticalitate/</loc>
+    <lastmod>2026-10-12T22:48:44+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r126-structura./</loc>
+    <lastmod>2026-10-12T22:48:44+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r125-contradictie/</loc>
+    <lastmod>2026-10-12T22:48:44+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r124-in-cautarea-sinelui/</loc>
+    <lastmod>2026-10-12T22:48:44+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r123-materia/</loc>
+    <lastmod>2026-10-12T22:48:44+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r122-idei-si-fondatori/</loc>
+    <lastmod>2026-10-12T22:48:44+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r121-colectii/</loc>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r120-delegatii/</loc>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r119-vulnerabilitatea-si-potentarea/</loc>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r118-anatomii/</loc>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r117-autoiluzionari-religioase-si-responsabilitatea-umana/</loc>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r116-enviromentul/</loc>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r115-vis-si-durere/</loc>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r114-dorinta-de-infinit/</loc>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r113-cotidian/</loc>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intruzive/posts/r112-rusine-si-protectie/</loc>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/intruzive/posts/r111-acel-altul/</loc>
-    <lastmod>2026-10-02T16:19:28+03:00</lastmod>
+    <lastmod>2026-10-12T21:04:15+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intruzive/posts/r110-infinit-si-finit/</loc>
-    <lastmod>2026-10-02T16:19:28+03:00</lastmod>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intruzive/posts/r109-bula-epistemica/</loc>
-    <lastmod>2026-10-02T16:19:28+03:00</lastmod>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intruzive/posts/r108-fracturi/</loc>
-    <lastmod>2026-10-02T16:19:28+03:00</lastmod>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intruzive/posts/r107-existenta-si-fiinta-azi/</loc>
-    <lastmod>2026-10-02T16:19:28+03:00</lastmod>
+    <lastmod>2026-10-08T09:06:31+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intruzive/posts/r106-libertatea-si-frica/</loc>
     <lastmod>2026-10-02T16:19:28+03:00</lastmod>
@@ -194,8 +266,8 @@
     <loc>http://localhost:1313/intruzive/posts/r079-memorandum/</loc>
     <lastmod>2026-10-02T16:19:28+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r078-conceptual-politic-ignoran%C8%9B%C4%83-si-destin/</loc>
-    <lastmod>2025-03-29T03:28:15+03:00</lastmod>
+    <loc>http://localhost:1313/intruzive/posts/r078-conceptual-politic-ignoranta-si-destin/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intruzive/posts/r077-fabrica-uitarii-umanului/</loc>
     <lastmod>2026-10-02T16:19:28+03:00</lastmod>
@@ -245,8 +317,8 @@
     <loc>http://localhost:1313/intruzive/posts/r062-antinomii-liturgice/</loc>
     <lastmod>2026-10-02T16:19:28+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r061-cetatea-si-informa%C8%9Bii-agregate/</loc>
-    <lastmod>2025-01-03T13:50:26+03:00</lastmod>
+    <loc>http://localhost:1313/intruzive/posts/r061-cetatea-si-informatii-agregate/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intruzive/posts/r060-dincolo-de-conditie/</loc>
     <lastmod>2026-10-02T16:19:28+03:00</lastmod>
@@ -290,8 +362,8 @@
     <loc>http://localhost:1313/intruzive/posts/r047-circumferinte-ale-alter-ego-ului/</loc>
     <lastmod>2026-10-02T16:19:28+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r046-soarta-%C8%99i-pestera-lui-platon/</loc>
-    <lastmod>2024-10-05T03:19:11+03:00</lastmod>
+    <loc>http://localhost:1313/intruzive/posts/r046-soarta-si-pestera-lui-platon/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intruzive/posts/r045-ibidem/</loc>
     <lastmod>2026-10-02T16:02:15+03:00</lastmod>
@@ -356,8 +428,8 @@
     <loc>http://localhost:1313/intruzive/posts/r026-piatra/</loc>
     <lastmod>2026-10-02T16:19:28+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/intruzive/posts/r025-dogma-%C8%99i-bunatate/</loc>
-    <lastmod>2024-06-11T21:06:46+03:00</lastmod>
+    <loc>http://localhost:1313/intruzive/posts/r025-dogma-si-bunatate/</loc>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intruzive/posts/r024-oglinda/</loc>
     <lastmod>2026-10-02T16:19:28+03:00</lastmod>
@@ -429,7 +501,7 @@
     <lastmod>2026-10-02T11:24:36+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intruzive/posts/r001-estetica-diferentei/</loc>
-    <lastmod>2026-10-02T16:30:45+03:00</lastmod>
+    <lastmod>2026-10-13T14:12:18+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intruzive/categories/</loc>
   </url><url>

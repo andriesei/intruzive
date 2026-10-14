@@ -1,7 +1,7 @@
 +++
 date = '2026-05-30T00:31:38+03:00'
 draft = false
-title = 'R. 155: despre Cognoscibilitatea Substanței'
+title = 'R. 156: despre Cognoscibilitatea Substanței'
 localCss = ["css/background.css"]
 +++
 
