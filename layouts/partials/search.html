@@ -1,0 +1,7 @@
+<div id="search-wrap" class="search-wrap">
+  <input id="search-input" type="search" placeholder="Caută în reflecții…"
+         data-index="{{ "index.json" | relURL }}" autocomplete="off">
+  <ul id="search-results"></ul>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0/dist/fuse.min.js"></script>
+<script src="{{ "js/search.js" | relURL }}"></script>

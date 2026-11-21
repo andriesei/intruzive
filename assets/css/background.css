@@ -26,3 +26,21 @@ body::before {
     transform: translate(-50%, -50%) scale(1);
   }
 }
+
+.header_right {
+  margin-left: auto;
+  padding: 0 1rem;
+  width: 260px;
+  max-width: 40%;
+}
+
+.search-wrap { position: relative; }
+#search-input {
+  background: transparent; color: inherit;
+  border: 1px solid #555; padding: .4rem .7rem; border-radius: 4px; width: 100%;
+}
+#search-results {
+  position: absolute; top: 100%; left: 0; right: 0; z-index: 50;
+  list-style: none; margin: 0; padding: 0; background: #1a1a1a;
+}
+#search-results li { padding: .4rem .7rem; border-bottom: 1px solid #333; }

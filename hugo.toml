@@ -30,3 +30,6 @@ enableGitInfo = true
 [params.footer]
   copyrightStr = ""
   gitHash = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
